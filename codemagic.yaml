@@ -1,0 +1,70 @@
+workflows:
+  ios-release:
+    name: iOS Release
+    max_build_duration: 60
+    instance_type: mac_mini_m1
+    
+    environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.glycoguide.app
+      vars:
+        XCODE_PROJECT: "ios_app/GlycoGuide.xcodeproj"
+        XCODE_SCHEME: "GlycoGuide"
+        APP_STORE_APPLE_ID: 1234567890  # Replace with your App Store app ID after creating it
+      xcode: latest
+    
+    scripts:
+      - name: Set up code signing settings on Xcode project
+        script: |
+          xcode-project use-profiles --project "$XCODE_PROJECT"
+      
+      - name: Increment build number
+        script: |
+          cd ios_app
+          LATEST_BUILD_NUMBER=$(app-store-connect get-latest-testflight-build-number "$APP_STORE_APPLE_ID" || echo "0")
+          agvtool new-version -all $((LATEST_BUILD_NUMBER + 1))
+      
+      - name: Build ipa for distribution
+        script: |
+          xcode-project build-ipa \
+            --project "$XCODE_PROJECT" \
+            --scheme "$XCODE_SCHEME" \
+            --config Release \
+            --archive-flags="-destination 'generic/platform=iOS'"
+    
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+      - $HOME/Library/Developer/Xcode/DerivedData/**/Build/**/*.dSYM
+    
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true
+        beta_groups:
+          - Internal Testers
+
+  ios-debug:
+    name: iOS Debug Build
+    max_build_duration: 30
+    instance_type: mac_mini_m1
+    
+    environment:
+      xcode: latest
+      vars:
+        XCODE_PROJECT: "ios_app/GlycoGuide.xcodeproj"
+        XCODE_SCHEME: "GlycoGuide"
+    
+    scripts:
+      - name: Build for simulator (debug)
+        script: |
+          xcodebuild \
+            -project "$XCODE_PROJECT" \
+            -scheme "$XCODE_SCHEME" \
+            -sdk iphonesimulator \
+            -configuration Debug \
+            build
+    
+    artifacts:
+      - /tmp/xcodebuild_logs/*.log
