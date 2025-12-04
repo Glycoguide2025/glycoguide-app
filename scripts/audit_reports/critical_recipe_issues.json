@@ -1,0 +1,745 @@
+{
+  "summary": {
+    "total_recipes": 570,
+    "recipes_with_issues": 91,
+    "no_ingredients": 0,
+    "no_instructions": 0,
+    "no_image": 0,
+    "generic_images": 37,
+    "substitution_mentions": 58
+  },
+  "issues": [
+    {
+      "id": "8b3ef444-4da8-424b-a579-f7d64cd2117f",
+      "name": "AMPK Pathway Meal",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "ab268d09-5ac7-4977-b13d-433054382a8d",
+      "name": "Argentinian Chimichurri Steak",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "07ebd29e-17b6-4d56-9e86-79d19b1ca2ac",
+      "name": "Asian Beef Stir-Fry",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "ace15252-9f2c-40ed-9fc9-fbc1fe706a72",
+      "name": "Asian Fusion Bowl",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "d51a1d63-1650-4c1a-9110-1218d26a0ee3",
+      "name": "Aurora Borealis Dinner",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "a4b79223-7edc-4df6-8933-c944a95113c2",
+      "name": "Australian Bush Tucker",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "dfeb82de-6f56-486b-bde1-98ff51178447",
+      "name": "Avocado Chocolate Mousse",
+      "category": "dessert",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "318ba60f-9539-4d8e-b558-3d41ae042ea3",
+      "name": "Baked Cod with Herbs",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "bda0e364-eb37-46af-ba56-1a0b8b625c05",
+      "name": "Beef Kabobs",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "83d78d2e-b5d6-4550-b5a5-c7bd4a7cbf84",
+      "name": "Beef and Broccoli Stir-fry",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "6c19e892-368b-47c9-8aba-17489d3b5f3f",
+      "name": "Blueberry Protein Pancakes",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759106881533.png"
+      ]
+    },
+    {
+      "id": "aa171eab-a06d-4433-a4f1-309d6fcc8440",
+      "name": "Breakfast Burrito",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "5d341a16-d688-4e23-bf27-b64203bc0882",
+      "name": "Breakfast Congee",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "fb68c3c4-1c1e-4ecd-9ed9-1a981826e054",
+      "name": "Breakfast Hash",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "7a64a6aa-0bfc-40ea-bcc1-c4272f0d3d2e",
+      "name": "Breakfast Shakshuka",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "4a3a88cd-4949-489f-afce-918ad9ad0c22",
+      "name": "Breakfast Wrap",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "03654630-1593-4da1-8fd2-93c5a2cf47ec",
+      "name": "Broccoli-flax crust pizza",
+      "category": "pizza",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759078337497.png"
+      ]
+    },
+    {
+      "id": "cb02f324-1c44-4366-b8a6-884bba997a8b",
+      "name": "Buckwheat Pancakes",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "f463381b-b1b3-4685-ab7f-8ca7fc0794a8",
+      "name": "Cabbage Steaks",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758490475994.png"
+      ]
+    },
+    {
+      "id": "6b5535fe-dd20-4413-9651-2d5581084ddf",
+      "name": "Cabbage and Cod Fish",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759081077540.png"
+      ]
+    },
+    {
+      "id": "44197ad9-ac58-4cde-bbc4-8037b7b4563e",
+      "name": "Cauliflower Baked Fries",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759082009877.png"
+      ]
+    },
+    {
+      "id": "b6dd13c2-5ea2-41cb-b176-57dd2313eb83",
+      "name": "Cauliflower Breakfast Hash",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "1e3a1aa6-1d50-4cc4-bb17-776fba3518cb",
+      "name": "Cauliflower Fried Rice",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "433e6db7-b797-40ea-a0a8-8f5daaf64c73",
+      "name": "Cauliflower Mac and Cheese",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "f47c745c-394e-42c6-822b-549ea0e92b38",
+      "name": "Cauliflower Rice",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "bcca4897-235e-4084-ba31-dcdf875befca",
+      "name": "Cauliflower Rice Bowl",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "8a43d901-0b10-42bb-94f0-e7821f271f5f",
+      "name": "Cauliflower Rice Stir-Fry",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "08da2f7d-095f-4fd4-baac-90e3f62b17a1",
+      "name": "Chicken Burger with Lettuce Wraps",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "90970c15-2152-4e7b-a970-787ceeffa5da",
+      "name": "Chicken Parmesan",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "dad6b995-8e4d-4f17-b24a-927813dc36ea",
+      "name": "Chicken and Avocado Salad",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759076927531.png"
+      ]
+    },
+    {
+      "id": "019aba6c-f26d-4733-a9fc-e5e6cb9c7771",
+      "name": "Circadian Rhythm Meal",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759083345477.png"
+      ]
+    },
+    {
+      "id": "68685485-871e-41a3-86e7-c6963dc973d3",
+      "name": "Coconut Date Balls",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759079059735.png"
+      ]
+    },
+    {
+      "id": "cfe4c81b-51aa-4c71-9d96-974895934c03",
+      "name": "Creamy Leek and Turnip Soup",
+      "category": "soup",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "5a449303-86c6-47bd-a836-5c2b637b8001",
+      "name": "Eggplant Parmesan",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759082384033.png"
+      ]
+    },
+    {
+      "id": "376d6ab4-2091-49cf-a0b4-b014d8c0d320",
+      "name": "Electrolyte Recovery Drink",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "8b4e8318-229f-4b65-bbe5-d77402344fe3",
+      "name": "Energy Boosting Trail Mix",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759079204314.png"
+      ]
+    },
+    {
+      "id": "b3f9e04f-f012-4aa1-bc6b-334fcc897465",
+      "name": "Fish Tacos",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "f92ce61f-77ec-42db-8ccf-28108f141648",
+      "name": "Fruit Salad",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759077885704.png"
+      ]
+    },
+    {
+      "id": "c6e9437a-e6f0-49cc-9bae-6440e67d8c63",
+      "name": "Garden Fresh Wrap",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "a121dcb3-8b5f-44b6-8a1a-0e309f2cb6b8",
+      "name": "German Hearty Dinner",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759078893759.png",
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "a008e6ff-8307-41cd-b9f0-149ee96c6986",
+      "name": "German Sauerbraten",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "8fcf1853-6c9c-4e3b-8edb-d117ef735c5d",
+      "name": "Grain Salad Bowl",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759078560537.png"
+      ]
+    },
+    {
+      "id": "c8eeccaf-3ec9-458f-b9ea-5c0a238e5a75",
+      "name": "Greek Moussaka",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "a69a82e3-ed42-48f2-a824-facec1c1fa64",
+      "name": "Greek Stuffed Tomatoes",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "63d5f1f7-f334-490e-93ec-97717b6baf55",
+      "name": "Grilled Salmon Fillet",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759076506661.png"
+      ]
+    },
+    {
+      "id": "a827671d-1b52-4427-bc3a-ee9ae920f4ef",
+      "name": "Harvest Abundance Bowl",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "909ca193-5deb-4be5-9094-95eecaffbeb8",
+      "name": "Hungarian Goulash",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "b1598d73-9793-41df-877e-240b3d5643f2",
+      "name": "Indian Butter Chicken",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759076422601.png"
+      ]
+    },
+    {
+      "id": "1795d3df-3882-4f2b-8520-3e8169719846",
+      "name": "Jamaican-Style Healthy Cauliflower Rice & Peas",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "91edfce5-6b15-4331-92c9-170d5a3a0a17",
+      "name": "Japanese Teriyaki Bowl",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758508419952.png"
+      ]
+    },
+    {
+      "id": "f4da3736-aac2-4b96-b190-c92971496004",
+      "name": "Kale Chips",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758508701419.png"
+      ]
+    },
+    {
+      "id": "9f80b371-67d4-4dcf-aae1-52b7f2ac6a40",
+      "name": "Ketogenic Breakfast Bowl",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "087cf97a-4fd6-4dfe-a9da-a1d491c3f8f9",
+      "name": "Korean BBQ Bowl",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758508984809.png"
+      ]
+    },
+    {
+      "id": "94957f97-9313-421a-ab62-34a117a4945a",
+      "name": "Korean Bibimbap",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758509180264.png"
+      ]
+    },
+    {
+      "id": "e7070c9a-6923-43bb-830f-9845d8f0f4ee",
+      "name": "Korean Kimchi Stew",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758509352935.png"
+      ]
+    },
+    {
+      "id": "2b064846-9bd2-4979-a22d-19e56b3e1dcc",
+      "name": "Lamb Curry",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758509583052.png"
+      ]
+    },
+    {
+      "id": "62fbbaef-5832-4dff-b2c3-86a123a12126",
+      "name": "Latin Fiesta Bowl",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758509720304.png"
+      ]
+    },
+    {
+      "id": "b0e1ba93-5e46-467d-98ce-3ba4bea5b583",
+      "name": "Lebanese Kibbeh",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758509947839.png"
+      ]
+    },
+    {
+      "id": "85467e79-be76-41ca-b98f-3b0a29e78802",
+      "name": "Lebanese Stuffed Grape Leaves",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758510069384.png",
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "d7280a31-45ee-4148-b8ad-bd81d402cad3",
+      "name": "Mashed Cauliflower",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758510776558.png"
+      ]
+    },
+    {
+      "id": "a9e57143-b3f3-423b-b239-026e94b3a89e",
+      "name": "Mediterranean Mezze Bowl",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758510988563.png",
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "c063a080-8ce4-475a-a2e5-c2b88993efda",
+      "name": "Mediterranean Sunshine Bowl",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "fc9380f2-f428-4abb-85ab-642515c501cf",
+      "name": "Mediterranean Wrap",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "e772ecfd-50a4-4d3a-860e-ffc39401e068",
+      "name": "Mexican Black Bean Bowls",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759082907217.png"
+      ]
+    },
+    {
+      "id": "416eabfe-01d3-42a5-b317-4eeefdf14f8a",
+      "name": "Mint Chocolate Almond Flour Cookies",
+      "category": "dessert",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "8866ae32-da86-4190-9ee8-def1f505e85e",
+      "name": "Morning Bowl",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "b95c3aa1-22f2-4829-b0f9-89344d41b80b",
+      "name": "Moroccan Chicken Tagine",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758515298602.png"
+      ]
+    },
+    {
+      "id": "3b340e47-3ca7-4afa-90c8-ddbb6b4a50e2",
+      "name": "Moroccan Couscous",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758513928048.png"
+      ]
+    },
+    {
+      "id": "888900f8-ac30-4cf3-8151-a91f38d43c49",
+      "name": "Moroccan Fish Tagine",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758514119308.png"
+      ]
+    },
+    {
+      "id": "ee9917d2-5065-4b13-97a3-6b5fb7aa78bd",
+      "name": "Moroccan Vegetable Tagine",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1758515491662.png"
+      ]
+    },
+    {
+      "id": "1bda98a9-a1f2-4bb0-a494-3527fd431576",
+      "name": "Mulberry Breakfast Bowl",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759078162445.png"
+      ]
+    },
+    {
+      "id": "8d4f5e6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+      "name": "Nigerian Cauliflower Jollof",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "e84f4116-5260-452b-a81a-ce6ab50b7820",
+      "name": "Perfect Peace Snack",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "0d8ff85f-f464-49c8-a075-2b8571bfd0a5",
+      "name": "Peruvian Ceviche Bowl",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "bc3570c8-849e-4948-9dd8-8c3fe6ca7f35",
+      "name": "Peruvian Quinoa Soup",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "8ac0ae72-e02f-41c7-90e7-cbd86d74116d",
+      "name": "Present Moment Snack",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "212c5d17-f272-4103-8432-8e4eee0959d9",
+      "name": "Protein Pancakes",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759079673754.png"
+      ]
+    },
+    {
+      "id": "ec0a84ea-ab05-4206-8f54-ec26c5bd08eb",
+      "name": "Quinoa Tabbouleh",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "d89c264c-c0b1-4f37-a646-a9761f64fe79",
+      "name": "Russian Beef Stroganoff",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "0937bdba-ec36-4c17-9dfb-0a545e99f315",
+      "name": "Russian Borscht",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "69394de8-63b2-4224-91c5-ccedfd3e4ffc",
+      "name": "Salmon Poke Bowl",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "65a524e3-e9b7-472a-a4d3-5d93891f4247",
+      "name": "Scandinavian Forest Meal",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "e81d96c6-b380-4a76-8c23-a2b272c0fa82",
+      "name": "Shepherds Pie",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "27a0f34b-ee71-4144-b84e-f5b082580ce7",
+      "name": "Stuffed Eggplant",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759082359355.png"
+      ]
+    },
+    {
+      "id": "d70d8b15-e117-4c97-89fb-bae137eed3be",
+      "name": "Swedish Meatballs",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "2b790011-3511-4f00-be5f-10f010ad1c49",
+      "name": "Turkish Kebabs",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "d91fbe66-98c6-4cf4-a7c6-02fc761efb03",
+      "name": "Universal Dinner Experience",
+      "category": "dinner",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "90bdb1ce-19fd-45d0-985f-2e67313641ba",
+      "name": "Vegetable Pho",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "1f0a3e35-3726-4117-ae5e-d6caa5b2ade7",
+      "name": "Veggie Burger with Lettuce Wraps",
+      "category": "lunch",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759078726357.png",
+        "\u26a0\ufe0f  Description mentions substitutions - verify ingredients match"
+      ]
+    },
+    {
+      "id": "c1461c3e-709b-42c6-90af-8df0fd27a92d",
+      "name": "Very Berry Breakfast",
+      "category": "breakfast",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759079501903.png"
+      ]
+    },
+    {
+      "id": "46baec46-289b-4e8a-9e2e-cbffc8385372",
+      "name": "Zucchini Baked Fries",
+      "category": "snack",
+      "issues": [
+        "\u26a0\ufe0f  Generic image filename: image_1759108396550.png"
+      ]
+    }
+  ]
+}

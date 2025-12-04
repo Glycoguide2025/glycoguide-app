@@ -1,0 +1,26 @@
+🔍 RECIPE IMAGE AUDIT REPORT
+Generated: 2025-09-20T14:25:35.125Z
+
+📊 SUMMARY:
+• Total Recipes: 573
+• ❌ Critical Issues: 4
+• ⚠️  Recommended Fixes: 566
+• ✅ OK Recipes: 0
+
+🚨 CRITICAL ISSUES (Forbidden ingredient mismatches):
+• Fish Tacos: Forbidden ingredients in image: milk, Image doesn't match meal category: dinner, Low ingredient overlap: 2%
+• Greek Moussaka: Forbidden ingredients in image: yogurt, Image doesn't match meal category: dinner, Low ingredient overlap: 2%
+• Moroccan Fish Tagine: Forbidden ingredients in image: milk, Image doesn't match meal category: dinner, Low ingredient overlap: 2%
+• Cauliflower Breakfast Hash: Forbidden ingredients in image: potato, Image doesn't match meal category: breakfast, Low ingredient overlap: 8%
+
+⚠️  TOP RECOMMENDED FIXES:
+• Indian Vegetable Biryani (Score: -10)
+• Black Hole Density Dinner (Score: -10)
+• Acai Bowl Power (Score: -10)
+• French Provincial Feast (Score: -10)
+• Black Bean and Millet Bowl (Score: -10)
+• Chinese Sweet and Sour (Score: -10)
+• Cuban Black Bean Bowl (Score: -10)
+• Cauliflower Grits (Score: -10)
+• Italian Traditional Table (Score: -10)
+• Lebanese Kibbeh (Score: -10)

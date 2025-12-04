@@ -1,0 +1,369 @@
+{
+  "insights": {
+    "page": {
+      "title": "Your Personal Insights",
+      "subtitle": "Discover patterns and build healthy habits",
+      "noInsights": {
+        "title": "Log at least 1 meal and 1 reading to unlock insights.",
+        "description": "As you log more, we'll spot simple patterns and suggestions.",
+        "button": "Check for insights"
+      },
+      "loading": "Loading your insights...",
+      "error": "Unable to load insights. Please try again.",
+      "retry": "Retry",
+      "refresh": "Refresh"
+    },
+    "types": {
+      "post_meal_rise": {
+        "title": "Post-meal rise noticed",
+        "body": "Your wellness reading rose +{delta} points after {mealName}. Meals around {carbs}g carbs tend to lead to bigger rises. Consider smaller portions or adding fiber.",
+        "badge": "meal rise"
+      },
+      "carb_budget_trend": {
+        "title": "Carb budget trend", 
+        "body": "You averaged {avgCarbs}g vs a goal of {dailyGoal}g over 3 days. Want to try lower-carb swaps or higher-fiber picks?",
+        "badge": "carb trend"
+      },
+      "evening_pattern": {
+        "title": "Evening pattern",
+        "body": "Your largest rises often follow dinner. A short post-dinner walk or a higher-fiber side may help.",
+        "badge": "evening pattern"
+      }
+    },
+    "actions": {
+      "viewMeal": "View Meal",
+      "viewReading": "View Reading"
+    },
+    "summary": {
+      "title": "Insights Summary",
+      "totalInsights": "Total insights",
+      "mostRecent": "Most recent insight",
+      "lastUpdated": "Insights updated",
+      "recently": "Recently",
+      "startLogging": "Start logging data",
+      "noneYet": "None yet"
+    },
+    "disclaimer": {
+      "title": "Wellness Note:",
+      "text": "These insights support your personal tracking and habit-building. Always consult a healthcare professional for medical guidance."
+    },
+    "ranges": {
+      "7d": "7 days",
+      "14d": "14 days", 
+      "30d": "30 days"
+    }
+  },
+  "suggestions": {
+    "title": "Smart picks for now",
+    "homeTitle": "Smart Suggestions",
+    "subtitle": "Based on your remaining carb budget ({carbsRemaining}g)",
+    "noSuggestions": "No suggestions available",
+    "exploreLibrary": "Explore our recipe library to find meals that fit your carb budget",
+    "viewRecipe": "View Recipe",
+    "addMeal": "Add Meal",
+    "nutrition": "{carbs}g carbs • {fiber}g fiber",
+    "badge_fiber": "High fiber",
+    "badge_budget": "Within budget", 
+    "badge_dinner_guard": "Dinner-friendly",
+    "timeOfDay": {
+      "breakfast": "Breakfast",
+      "lunch": "Lunch", 
+      "dinner": "Dinner"
+    }
+  },
+  "home": {
+    "insights": {
+      "title": "Today's Insight"
+    },
+    "tracking": {
+      "carbsUsed": "Carbs Used",
+      "carbsRemaining": "Remaining", 
+      "readingsToday": "Readings Today",
+      "nextCheckin": "Next Check-In",
+      "eveningReflection": "Evening reflection",
+      "addReadings": "Add wellness readings"
+    },
+    "timeline": {
+      "title": "Today's Timeline",
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "dinner": "Dinner",
+      "logged": "Logged",
+      "addMeal": "Add Meal"
+    }
+  },
+  "wellness": {
+    "encouragement": {
+      "hasInsights": "🎉 Great job tracking your wellness journey! Your insights update automatically as you log more data.",
+      "noInsights": "🌱 Start logging meals and wellness readings to generate personalized insights about your wellness patterns."
+    }
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Welcome to GlycoGuide",
+      "subtitle": "Let's personalize your wellness journey",
+      "description": "In just 3 minutes, we'll help you set up your goals, preferences, and reminders for a more effective experience.",
+      "getStarted": "Get Started",
+      "skip": "Skip for now"
+    },
+    "goals": {
+      "title": "Set Your Daily Goals",
+      "subtitle": "These help us provide better recommendations",
+      "carbTarget": "Daily carb target (grams)",
+      "carbTargetHelper": "Most people start with 150-180g",
+      "primary": "Primary wellness goal",
+      "primaryOptions": {
+        "stable_energy": "Maintain stable energy",
+        "weight_management": "Support healthy weight",
+        "lifestyle_habits": "Build healthy habits",
+        "prevention": "Focus on prevention"
+      },
+      "continue": "Continue",
+      "back": "Back"
+    },
+    "preferences": {
+      "title": "Food Preferences",
+      "subtitle": "Help us recommend meals you'll love",
+      "dietary": "Dietary preferences (optional)",
+      "dietaryOptions": {
+        "vegetarian": "Vegetarian",
+        "vegan": "Vegan",
+        "pescatarian": "Pescatarian",
+        "keto": "Keto-friendly",
+        "paleo": "Paleo-friendly",
+        "gluten_free": "Gluten-free"
+      },
+      "dislikes": "Foods to avoid (optional)",
+      "dislikesPlaceholder": "e.g., shellfish, nuts, spicy foods",
+      "continue": "Continue",
+      "back": "Back"
+    },
+    "reminders": {
+      "title": "Daily Reminders",
+      "subtitle": "Set gentle reminders for healthy habits",
+      "breakfast": "Breakfast check-in",
+      "lunch": "Lunch check-in",
+      "dinner": "Dinner check-in",
+      "reflection": "Evening reflection",
+      "enable": "Enable reminders",
+      "disable": "Skip reminders",
+      "timeFormat": "HH:MM",
+      "complete": "Complete Setup",
+      "back": "Back"
+    },
+    "completed": {
+      "title": "You're All Set!",
+      "subtitle": "Welcome to your personalized wellness journey",
+      "description": "Your dashboard is ready with personalized recommendations based on your goals and preferences.",
+      "goToDashboard": "Go to Dashboard",
+      "exploreFeatures": "Explore 25 Free Recipes"
+    }
+  },
+  "reflection": {
+    "title": "Evening Reflection",
+    "subtitle": "Take a moment to reflect on your day",
+    "skip": "Skip tonight",
+    "submit": "Submit reflection",
+    "submitting": "Saving...",
+    "submitted": "Reflection saved!",
+    "fields": {
+      "mood": {
+        "label": "How was your mood today?",
+        "options": {
+          "very_low": "😔 Very low",
+          "low": "😕 Low",
+          "neutral": "😐 Neutral",
+          "good": "😊 Good",
+          "excellent": "😄 Excellent"
+        }
+      },
+      "stress": {
+        "label": "How stressed did you feel?",
+        "options": {
+          "very_low": "😌 Very relaxed",
+          "low": "😊 Mostly calm",
+          "moderate": "😐 Some stress",
+          "high": "😰 Quite stressed",
+          "very_high": "😫 Very stressed"
+        }
+      },
+      "sleep": {
+        "label": "How was last night's sleep?",
+        "options": {
+          "poor": "😴 Poor",
+          "fair": "😐 Fair",
+          "good": "😊 Good",
+          "excellent": "✨ Excellent"
+        }
+      },
+      "energy": {
+        "label": "How were your energy levels?",
+        "options": {
+          "very_low": "🔋 Very low",
+          "low": "🔋 Low",
+          "moderate": "🔋 Moderate",
+          "high": "🔋 High",
+          "very_high": "⚡ Very high"
+        }
+      },
+      "gratitude": {
+        "label": "What are you grateful for today?",
+        "placeholder": "Something you appreciated today...",
+        "optional": "(Optional)"
+      },
+      "notes": {
+        "label": "Any other thoughts?",
+        "placeholder": "How did your wellness habits feel today?",
+        "optional": "(Optional)"
+      }
+    }
+  },
+  "weekStrip": {
+    "title": "This Week at a Glance",
+    "days": {
+      "monday": "Mon",
+      "tuesday": "Tue",
+      "wednesday": "Wed",
+      "thursday": "Thu",
+      "friday": "Fri",
+      "saturday": "Sat",
+      "sunday": "Sun"
+    },
+    "today": "Today",
+    "noData": "No reflection yet",
+    "tapToReflect": "Tap to reflect"
+  },
+  "exports": {
+    "title": "Export Your Data",
+    "subtitle": "Download your wellness data for personal records",
+    "success": "Export completed successfully!",
+    "download": "Download Now",
+    "upgrade": "Upgrade to Export",
+    "dateRange": "Select Date Range",
+    "includeData": "Data to Include",
+    "format": "Export Format",
+    "csv": {
+      "title": "CSV Export",
+      "description": "Spreadsheet format for analysis",
+      "button": "Download CSV",
+      "generating": "Generating CSV...",
+      "ready": "Your CSV is ready!",
+      "download": "Download"
+    },
+    "pdf": {
+      "title": "PDF Report",
+      "description": "Formatted summary report",
+      "button": "Download PDF",
+      "generating": "Generating PDF...",
+      "ready": "Your PDF is ready!",
+      "download": "Download"
+    },
+    "dataTypes": {
+      "meals": "Meal Logs",
+      "reflections": "Daily Reflections",
+      "glucose": "Blood Sugar Readings",
+      "exercise": "Exercise Logs",
+      "insights": "Smart Insights"
+    },
+    "dateRangeOptions": {
+      "label": "Date range",
+      "last7days": "Last 7 days",
+      "last30days": "Last 30 days",
+      "last90days": "Last 90 days",
+      "custom": "Custom range"
+    },
+    "upgradeModal": {
+      "title": "Premium Feature",
+      "description": "Data exports are available for Premium and Pro subscribers",
+      "button": "Upgrade Now"
+    },
+    "errors": {
+      "failed": "Export failed. Please try again.",
+      "noData": "No data available for selected date range",
+      "tooLarge": "Date range too large. Please select a smaller range."
+    }
+  },
+  "billing": {
+    "plans": {
+      "free": "Free",
+      "premium": "Premium",
+      "pro": "Pro"
+    },
+    "features": {
+      "insights": "Advanced insights",
+      "exports": "Data exports",
+      "unlimited": "Unlimited tracking",
+      "coaching": "1-on-1 coaching"
+    },
+    "upgrade": {
+      "title": "Upgrade Your Plan",
+      "subtitle": "Unlock more features for better wellness tracking",
+      "close": "Maybe later",
+      "viewPlans": "View All Plans"
+    }
+  },
+  "accessibility": {
+    "skipToMain": "Skip to main content",
+    "skipToNav": "Skip to navigation",
+    "closeDialog": "Close dialog",
+    "openMenu": "Open menu",
+    "loading": "Loading content",
+    "required": "Required field",
+    "optional": "Optional field",
+    "expandSection": "Expand section",
+    "collapseSection": "Collapse section"
+  },
+  "settings": {
+    "title": "Settings",
+    "analytics_title": "Share anonymous usage",
+    "analytics_desc": "Helps improve the app. You can turn this off anytime.",
+    "delete_title": "Delete account",
+    "delete_desc": "This will remove your data. This can't be undone.",
+    "delete_confirm": "Type DELETE to confirm",
+    "save": "Save changes",
+    "privacy": "Privacy policy",
+    "disclaimer": "GlycoGuide is a wellness and self-tracking app. It does not diagnose, treat, or provide medical advice."
+  },
+  "errors": {
+    "fallback_title": "Something didn't load",
+    "fallback_body": "Please try again in a moment.",
+    "retry": "Retry",
+    "offline": "You're offline. Changes will sync when you're back."
+  },
+  "landing": {
+    "hero_title": "Build calm, healthy food habits",
+    "hero_sub": "Log meals in two taps, spot simple patterns, and feel better day by day.",
+    "cta": "Get started",
+    "bullet1": "500+ wellness-friendly recipes",
+    "bullet2": "Smart picks tailored to your day",
+    "bullet3": "Simple, supportive insights"
+  },
+  "waitlist": {
+    "title": "Be first to know",
+    "email_placeholder": "you@example.com",
+    "join": "Join the list",
+    "thanks": "You're on the list!"
+  },
+  "pricing": {
+    "premium": {
+      "title": "Premium Plan",
+      "description": "Unlock advanced features for better wellness tracking",
+      "feature1": "30-day meal & reading history",
+      "feature2": "PDF wellness reports",
+      "feature3": "Advanced pattern insights",
+      "feature4": "Priority customer support",
+      "cta": "Start Premium",
+      "close": "Maybe Later"
+    },
+    "pro": {
+      "title": "Pro Plan", 
+      "description": "Professional tools for serious wellness tracking",
+      "feature1": "14-day meal & reading history",
+      "feature2": "CSV data exports",
+      "feature3": "Detailed analytics dashboard",
+      "feature4": "Smart meal suggestions",
+      "cta": "Start Pro",
+      "close": "Maybe Later"
+    }
+  }
+}

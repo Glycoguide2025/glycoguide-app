@@ -1,0 +1,488 @@
+{
+  "community_hub": {
+    "title": "Community Hub",
+    "description": "Share your wellness journey, celebrate wins, ask questions, and connect with others on similar paths. Whether you're focusing on your holistic lifestyle or navigating your diabetes journey — we've got you covered.",
+    "monthly_themes": [
+      {
+        "month": "January",
+        "name": "Fresh Starts",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "New Intentions",
+            "prompts": [
+              "What intention are you setting this year?",
+              "What fresh habit do you want to try?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Building Momentum",
+            "prompts": [
+              "What small step moved you forward this week?",
+              "What routine supports your energy?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Letting Go",
+            "prompts": [
+              "What habit or worry are you ready to release?",
+              "How does letting go open space for healing?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Celebrating Progress",
+            "prompts": [
+              "What small win are you proud of?",
+              "How are you stronger than last month?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "February",
+        "name": "Heart Wisdom",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Self-Love",
+            "prompts": [
+              "What's one kind thing you told yourself today?",
+              "How did you honor your needs?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Connection",
+            "prompts": [
+              "Who brought warmth to your life this week?",
+              "What relationship supports your journey?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Emotional Balance",
+            "prompts": [
+              "How did you care for your emotions today?",
+              "What calmed your heart?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Compassion",
+            "prompts": [
+              "How did you show compassion to yourself or others?",
+              "What moment of empathy touched you?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "March",
+        "name": "Nourish & Bloom",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Food Joy",
+            "prompts": [
+              "What meal brought you comfort?",
+              "What ingredient are you grateful for?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Body Appreciation",
+            "prompts": [
+              "What part of your body do you thank today?",
+              "How did your body support you?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Seasonal Growth",
+            "prompts": [
+              "What new growth do you see in yourself?",
+              "What change excites you this spring?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Mindful Eating",
+            "prompts": [
+              "How did you eat with intention today?",
+              "What food made you feel cared for?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "April",
+        "name": "Mindful Movement",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Gentle Motion",
+            "prompts": [
+              "What movement felt good today?",
+              "How did walking, stretching, or yoga help you?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Energy Balance",
+            "prompts": [
+              "What boosted your energy today?",
+              "What rest did your body ask for?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Listening to the Body",
+            "prompts": [
+              "What signal did your body give you?",
+              "How did you respond with kindness?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Rhythm & Rest",
+            "prompts": [
+              "What routine keeps you balanced?",
+              "What rest ritual restored you this week?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "May",
+        "name": "Kindness Ripple",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Small Acts",
+            "prompts": [
+              "What act of kindness did you notice today?",
+              "How did you brighten someone's day?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Self-Compassion",
+            "prompts": [
+              "How did you forgive yourself this week?",
+              "What gentle word do you need to hear?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Giving & Receiving",
+            "prompts": [
+              "How did you receive kindness?",
+              "How did you give it away?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Community Care",
+            "prompts": [
+              "How did you support someone in your circle?",
+              "Who supported you when you needed it?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "June",
+        "name": "Joy in the Journey",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Playfulness",
+            "prompts": [
+              "What playful moment lifted your spirit?",
+              "When did you laugh this week?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Presence",
+            "prompts": [
+              "What moment felt sacred or grounding?",
+              "What helped you feel present?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Celebrating Progress",
+            "prompts": [
+              "What's one milestone you're proud of?",
+              "How have you grown since last month?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Gratitude for the Journey",
+            "prompts": [
+              "What makes your wellness journey unique?",
+              "What step forward are you most grateful for?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "July",
+        "name": "Light & Freedom",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Breath & Space",
+            "prompts": [
+              "When did you pause and breathe deeply?",
+              "What gave you space to rest?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Freedom of Choice",
+            "prompts": [
+              "What empowering choice did you make?",
+              "What decision felt freeing?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Summer Joy",
+            "prompts": [
+              "What outdoor or seasonal joy lifted you?",
+              "What light moment did you savor?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Expanding Horizons",
+            "prompts": [
+              "What new experience brought growth?",
+              "What freedom are you grateful for?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "August",
+        "name": "Inner Strength",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Resilience",
+            "prompts": [
+              "What challenge did you face with courage?",
+              "How did you stay grounded in stress?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Healing",
+            "prompts": [
+              "What healing step did you take today?",
+              "How is your body or mind restoring itself?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Courage",
+            "prompts": [
+              "What brave choice did you make?",
+              "What fear did you overcome?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Self-Trust",
+            "prompts": [
+              "How did you trust your instincts?",
+              "What decision honored your inner wisdom?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "September",
+        "name": "Wisdom Harvest",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Lessons Learned",
+            "prompts": [
+              "What lesson did this year teach you?",
+              "How did struggle bring growth?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Reflection",
+            "prompts": [
+              "What memory shaped you?",
+              "What reflection gave you insight?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Gathering Strength",
+            "prompts": [
+              "What resources support your healing?",
+              "Who or what do you lean on?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Gratitude for Growth",
+            "prompts": [
+              "What growth are you thankful for?",
+              "How have you changed for the better?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "October",
+        "name": "Cozy Gratitude",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Comforts",
+            "prompts": [
+              "What simple comfort warmed you today?",
+              "What cozy ritual grounds you?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Seasonal Joy",
+            "prompts": [
+              "What autumn tradition brings joy?",
+              "What food or scent feels like fall?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Belonging",
+            "prompts": [
+              "Where did you feel at home this week?",
+              "Who made you feel seen?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Gratitude Overflow",
+            "prompts": [
+              "What abundance do you notice around you?",
+              "How did you express gratitude this week?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "November",
+        "name": "Abundance Mindset",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Enoughness",
+            "prompts": [
+              "What makes you feel you are enough?",
+              "Where in life do you feel complete?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Generosity",
+            "prompts": [
+              "How did you give generously?",
+              "What generosity did you receive?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Receiving with Grace",
+            "prompts": [
+              "How did you let yourself be supported?",
+              "What blessing did you accept?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Thankfulness",
+            "prompts": [
+              "What gratitude fills you this season?",
+              "What moment of thanks stands out?"
+            ]
+          }
+        ]
+      },
+      {
+        "month": "December",
+        "name": "Sacred Stillness",
+        "weekly_themes": [
+          {
+            "week": 1,
+            "name": "Peace",
+            "prompts": [
+              "What brought you calm today?",
+              "Where do you find peace?"
+            ]
+          },
+          {
+            "week": 2,
+            "name": "Rest",
+            "prompts": [
+              "How are you resting your body this week?",
+              "What routine restores your energy?"
+            ]
+          },
+          {
+            "week": 3,
+            "name": "Spiritual Gratitude",
+            "prompts": [
+              "What spiritual practice grounds you?",
+              "What moment felt sacred?"
+            ]
+          },
+          {
+            "week": 4,
+            "name": "Reflection & Renewal",
+            "prompts": [
+              "What do you release from this year?",
+              "What do you hope to carry into the next?"
+            ]
+          }
+        ]
+      }
+    ],
+    "feed": [
+      {
+        "type": "prompt",
+        "icon": "🌱",
+        "text": "What's one nourishing choice you made today?"
+      },
+      {
+        "type": "entry",
+        "user": "Anonymous",
+        "mood": "🌞 Hopeful",
+        "text": "Grateful for my evening walk — it helped me reset my energy."
+      },
+      {
+        "type": "affirmation",
+        "icon": "💖",
+        "text": "I am more than my numbers. Every small step supports my healing."
+      },
+      {
+        "type": "milestone",
+        "icon": "🔥",
+        "title": "Streak Star!",
+        "text": "You've logged 7 gratitude reflections in a row — amazing consistency!"
+      }
+    ]
+  }
+}

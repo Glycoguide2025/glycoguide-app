@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    namespace "com.glycoguide.app"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.glycoguide.app"
+        minSdk 21
+        targetSdk 35
+        versionCode 4
+        versionName "1.3"
+    }
+
+    signingConfigs {
+        release {
+            storeFile file("../glycoguide-keystore.jks")
+            storePassword "Glycoguide2024"
+            keyAlias "upload"
+            keyPassword "Glycoguide2024"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.webkit:webkit:1.7.0'
+}

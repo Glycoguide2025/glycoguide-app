@@ -1,0 +1,23 @@
+{
+  "banner": {
+    "enabled": false,
+    "type": "info",
+    "message": "",
+    "dismissible": true,
+    "priority": "normal",
+    "startTime": null,
+    "endTime": null,
+    "targetPlans": ["free", "premium", "pro"],
+    "link": null,
+    "linkText": null
+  },
+  "maintenance": {
+    "scheduled": false,
+    "startTime": null,
+    "endTime": null,
+    "message": "Scheduled maintenance in progress. Some features may be temporarily unavailable.",
+    "affectedServices": []
+  },
+  "incidents": [],
+  "lastUpdated": "2025-09-25T15:00:00.000Z"
+}

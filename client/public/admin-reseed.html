@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin: Force Reseed Recipes</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-top: 0;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 20px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 6px;
+            display: none;
+        }
+        .success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .loading {
+            background: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>🔧 Admin: Force Reseed All Recipes</h1>
+        <p><strong>WARNING:</strong> This will delete all existing recipes and reload all 570 recipes from the master JSON file.</p>
+        <p>Use this to restore missing recipes (B-Z) to your production database.</p>
+        
+        <button id="reseedBtn" onclick="reseedMeals()">
+            Reseed All 570 Recipes Now
+        </button>
+        
+        <div id="result"></div>
+    </div>
+
+    <script>
+        async function reseedMeals() {
+            const btn = document.getElementById('reseedBtn');
+            const result = document.getElementById('result');
+            
+            // Disable button and show loading
+            btn.disabled = true;
+            btn.textContent = 'Reseeding... This may take 30-60 seconds...';
+            result.style.display = 'block';
+            result.className = 'loading';
+            result.innerHTML = '⏳ Deleting old recipes and inserting all 570 new recipes...<br>Please wait...';
+            
+            try {
+                const response = await fetch('/api/admin/force-reseed-meals', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    credentials: 'include'
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    result.className = 'success';
+                    result.innerHTML = `
+                        <strong>✅ Success!</strong><br>
+                        ${data.message}<br><br>
+                        <strong>Before:</strong> ${data.before} recipes<br>
+                        <strong>After:</strong> ${data.after} recipes<br><br>
+                        <em>All 570 recipes (A-Z) are now available!</em><br>
+                        <a href="/recipes" style="color: #007bff;">View Recipes →</a>
+                    `;
+                    btn.textContent = '✅ Reseed Complete!';
+                } else {
+                    throw new Error(data.error || 'Unknown error');
+                }
+                
+            } catch (error) {
+                result.className = 'error';
+                result.innerHTML = `
+                    <strong>❌ Error:</strong><br>
+                    ${error.message}<br><br>
+                    Please try again or contact support.
+                `;
+                btn.textContent = 'Try Again';
+                btn.disabled = false;
+            }
+        }
+    </script>
+</body>
+</html>

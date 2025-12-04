@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GlycoGuide" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#10B981</item>
+        <item name="colorPrimaryDark">#059669</item>
+        <item name="colorAccent">#10B981</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

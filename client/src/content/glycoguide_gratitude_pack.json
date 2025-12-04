@@ -1,0 +1,193 @@
+{
+  "section_copy": {
+    "gratitude": {
+      "title": "Gratitude Reflection",
+      "subtitle": "Shift focus to what supports you.",
+      "description": "Take a moment to reflect on something meaningful from your day and how you can cultivate more of it.",
+      "three_lines": {
+        "moment": {
+          "label": "Moment — what happened?",
+          "placeholder": "Describe a moment you're grateful for today...",
+          "helper": "Think of a specific experience, interaction, or observation that brought you joy or peace."
+        },
+        "meaning": {
+          "label": "Meaning — why it mattered?", 
+          "placeholder": "Why was this moment significant to you...",
+          "helper": "Explore the deeper impact this moment had on your feelings, relationships, or perspective."
+        },
+        "micro_action": {
+          "label": "Micro-action — how to invite more tomorrow",
+          "placeholder": "One small action you could take to create more moments like this...",
+          "helper": "Think of one tiny, concrete step you could take tomorrow to cultivate similar experiences."
+        }
+      },
+      "tips": [
+        "Be specific - detailed gratitude has more impact than general statements",
+        "Focus on people - relationships often provide the most meaningful moments", 
+        "Notice small things - everyday moments can be sources of genuine appreciation",
+        "Include challenges - difficult experiences can also teach us valuable lessons"
+      ],
+      "completion_message": "Your gratitude practice is helping build a more positive mindset.",
+      "completion_tip": "Regular gratitude practice has been shown to improve mood, reduce stress, and enhance overall well-being. Consider making this a daily habit!"
+    },
+    
+    "evening_wind_down_article": {
+      "title": "The Art of the Evening Wind-Down",
+      "subtitle": "Help your body and mind prepare for restful sleep.",
+      "intro": "A consistent evening routine signals to your body that it's time to transition from the activity of the day to the rest of night. This wind-down practice helps reduce stress hormones and activate your parasympathetic nervous system for deeper, more restorative sleep.",
+      
+      "why_it_matters": {
+        "title": "Why Evening Wind-Down Matters",
+        "content": "Your nervous system needs time to shift from the sympathetic 'go mode' to the parasympathetic 'rest mode.' Without this transition, your mind may stay active even when your body is tired, leading to poor sleep quality and increased stress the next day."
+      },
+      
+      "practices": {
+        "screen_dim": {
+          "title": "Screen dim",
+          "description": "Lower your screen brightness or switch to night mode to signal to your brain that it's time to wind down."
+        },
+        "day_release": {
+          "title": "Release the day: 3 bullets",
+          "description": "Process the day's experiences to clear your mind for rest.",
+          "prompts": {
+            "went_well": "What went well today?",
+            "was_hard": "What was challenging today?", 
+            "letting_go": "What are you ready to release from today?"
+          }
+        },
+        "body_downshift": {
+          "title": "Body downshift: inhale 4, exhale 8 ×10",
+          "description": "This breathing pattern activates your vagus nerve and calms your nervous system.",
+          "instructions": "Ready to start your breathing exercise? Click below to begin 10 cycles of deep breathing."
+        },
+        "gratitude_check": {
+          "title": "Gratitude check: 1 thing & why", 
+          "description": "End the day by focusing on something positive.",
+          "prompts": {
+            "thing": "One thing I'm grateful for",
+            "why": "Why it matters"
+          }
+        },
+        "tomorrow_anchor": {
+          "title": "Tomorrow's anchor: one must-do + start time",
+          "description": "Set a clear intention for tomorrow to ease your mind.",
+          "prompts": {
+            "must_do": "One must-do tomorrow",
+            "start_time": "Start time"
+          }
+        }
+      },
+      
+      "affirmations": [
+        "I have done enough today",
+        "My mind and body deserve rest",
+        "Tomorrow will take care of itself",
+        "I release the day with gratitude"
+      ],
+      
+      "closing": {
+        "title": "Wind-down complete!",
+        "message": "Your mind and body are ready for restful sleep. Sweet dreams! 🌙",
+        "progress_text": "steps completed"
+      }
+    },
+    
+    "body_scan_article": {
+      "title": "Quick Stress Relief: 3-Minute Body Scan",
+      "subtitle": "Regain calm in under 2 minutes.",
+      "intro": "When stress hits, your body's fight-or-flight response activates. These evidence-based techniques help quickly shift your nervous system back to a calmer state.",
+      
+      "three_minute_body_scan": {
+        "name": "3-Minute Body Scan",
+        "description": "A quick scan to release tension and ground yourself in the present moment",
+        "duration": "3 minutes",
+        "steps": [
+          "Close your eyes and take three deep breaths",
+          "Notice the top of your head and forehead - release any tension",
+          "Feel your shoulders and let them drop away from your ears",
+          "Scan through your chest, stomach, and back - breathe into any tightness",
+          "Notice your legs, knees, and feet - let them feel heavy and relaxed",
+          "Take a final deep breath and slowly open your eyes"
+        ]
+      },
+      
+      "bonus_practices": [
+        {
+          "name": "Hand-on-Heart",
+          "description": "A gentle self-soothing technique to activate your calming response",
+          "duration": "1 minute",
+          "steps": [
+            "Place one hand on your heart and one on your belly",
+            "Close your eyes and feel the warmth of your hands",
+            "Breathe slowly and deeply, feeling your chest and belly rise",
+            "Say to yourself: 'I am safe, I am calm, I am here'",
+            "Continue for 5-10 breaths, noticing the soothing effect"
+          ]
+        },
+        {
+          "name": "5-4-3-2-1 Grounding", 
+          "description": "Use your senses to anchor yourself in the present moment",
+          "duration": "2 minutes",
+          "steps": [
+            "5 things you can SEE - Look around and name them",
+            "4 things you can FEEL - Notice textures, temperature", 
+            "3 things you can HEAR - Listen to sounds around you",
+            "2 things you can SMELL - Take a moment to notice",
+            "1 thing you can APPRECIATE - Find something positive"
+          ]
+        },
+        {
+          "name": "Affirmation Whisper",
+          "description": "Calm your nervous system with gentle self-reassurance", 
+          "duration": "30 seconds",
+          "steps": [
+            "Choose a calming phrase: 'This too shall pass' or 'I can handle this'",
+            "Whisper it to yourself slowly three times",
+            "Notice how your body relaxes with each repetition",
+            "Place your hand on your heart as you say it one final time"
+          ]
+        }
+      ],
+      
+      "tips": [
+        "Use these techniques as soon as you notice stress building",
+        "Find a quiet space where you won't be interrupted",
+        "Focus on the technique rather than the stressful situation", 
+        "Practice regularly when calm to build your stress resilience",
+        "Remember: it's normal for your mind to wander - gently return focus"
+      ],
+      
+      "completion": {
+        "title": "Well Done!",
+        "check_in": {
+          "title": "Take a moment to check in with yourself",
+          "questions": [
+            "How does your body feel now?",
+            "Is your breathing deeper or slower?",
+            "Do you notice any shift in your stress level?",
+            "What thoughts are present right now?"
+          ]
+        },
+        "reminder": "These techniques are most effective when practiced regularly. Even 2 minutes of stress relief can help reset your nervous system."
+      }
+    },
+    
+    "quick_stress_relief": {
+      "title": "Quick Stress Relief",
+      "subtitle": "Regain calm in under 2 minutes.",
+      "fallback_checklist": [
+        "Take 5 deep breaths, counting each one",
+        "Drink a glass of water slowly",
+        "Step outside for fresh air if possible",
+        "Do 10 gentle neck rolls",
+        "Name 3 things you can see, 2 you can hear, 1 you can smell",
+        "Send a quick text to someone you care about",
+        "Listen to one calming song",
+        "Write down what's stressing you, then set it aside",
+        "Do 20 jumping jacks or push-ups",
+        "Practice gratitude - think of 3 good things from today"
+      ],
+      "note": "If specific techniques aren't available, this checklist provides quick stress relief options."
+    }
+  }
+}

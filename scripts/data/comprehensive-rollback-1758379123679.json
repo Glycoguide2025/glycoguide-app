@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-20T14:38:43.679Z",
+  "totalApplied": 1,
+  "totalFailed": 0,
+  "changes": [
+    {
+      "id": "5a0e3a23-c74b-407b-9d30-534e644df857",
+      "recipeName": "Unsweetened Chicory Coffee",
+      "oldImage": "Unsweetened_chicory_coffee_mug_8c9e537f.png",
+      "newImage": "/attached_assets/generated_images/Ashwagandha_almond_milk_latte_052729fb.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: beverage"
+    }
+  ],
+  "failures": []
+}

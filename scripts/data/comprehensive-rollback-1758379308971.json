@@ -1,0 +1,3144 @@
+{
+  "timestamp": "2025-09-20T14:41:48.971Z",
+  "totalApplied": 448,
+  "totalFailed": 0,
+  "changes": [
+    {
+      "id": "15848575-c471-4f0f-8d94-ba30dc0cbbdd",
+      "recipeName": "Chicken Bone Broth",
+      "oldImage": "Chicken_bone_broth_healing_nourishing_9d780bdb.png",
+      "newImage": "/attached_assets/generated_images/Chicken_bone_broth_healing_nourishing_9d780bdb.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "51892ebb-e7ae-4cf0-a692-dd0af93696cc",
+      "recipeName": "Glacier Pure Dinner",
+      "oldImage": "Glacier_pure_arctic_dinner_7668a67d.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "cdff523b-918b-48ec-8cb1-43f6925917a4",
+      "recipeName": "Macro Bowl Deluxe",
+      "oldImage": "Macro_bowl_balanced_nutrients_5a89e06a.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "6ec1b21e-14ad-4465-8932-0f48693db733",
+      "recipeName": "Breakfast Grain Porridge",
+      "oldImage": "Breakfast_grain_porridge_creamy_comfort_5eb7ff20.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "7355fd7c-47c6-486c-8b42-6b5995acf233",
+      "recipeName": "Protein Power Balls",
+      "oldImage": "Protein_Power_Balls_c377a909.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_Chip_Almond_Cookies_7715798b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "d9f6766c-69c7-4191-8a77-b2ca52fbd142",
+      "recipeName": "Wormhole Travel Lunch",
+      "oldImage": "Futuristic_wormhole_travel_lunch_bowl_d8226a3c.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "08da2f7d-095f-4fd4-baac-90e3f62b17a1",
+      "recipeName": "Chicken Burger with Lettuce Wraps",
+      "oldImage": "Chicken_burger_lettuce_wrap_82e679ac.png",
+      "newImage": "/attached_assets/generated_images/Chicken_burger_lettuce_wrap_82e679ac.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "6a04b33e-516c-4556-942f-7d34aad29f25",
+      "recipeName": "Green Goddess Smoothie",
+      "oldImage": "Green_goddess_smoothie_healthy_5b9e4b62.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "416eabfe-01d3-42a5-b317-4eeefdf14f8a",
+      "recipeName": "Mint Chocolate Almond Flour Cookies",
+      "oldImage": "Mint_chocolate_almond_cookies_cadf8761.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "a87c195e-a7f1-4c9c-adbf-ddc78fe4ba45",
+      "recipeName": "Spinach White Bean Soup Mediterranean",
+      "oldImage": "Mediterranean_spinach_white_bean_soup_529e3d14.png",
+      "newImage": "/attached_assets/generated_images/Mediterranean_spinach_white_bean_soup_529e3d14.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "9d38004a-5903-4d10-89ce-e4f019971804",
+      "recipeName": "Savory Breakfast Bowl",
+      "oldImage": "Savory_quinoa_breakfast_bowl_4ee82d19.png",
+      "newImage": "/attached_assets/generated_images/Savory_quinoa_breakfast_bowl_4ee82d19.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 16%"
+    },
+    {
+      "id": "0f1e3988-8b95-4f6f-b335-45ab00b94df5",
+      "recipeName": "NAD Plus Boosting Snack",
+      "oldImage": "NAD_Plus_Boosting_Snack_042d909b.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "9f9005a6-4ab6-40aa-b3aa-b494f56fbb28",
+      "recipeName": "Stuffed Bell Peppers",
+      "oldImage": "Stuffed_bell_peppers_healthy_372e6bdf.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "a97c1aac-96a6-4312-9367-4f7db64d235d",
+      "recipeName": "Shiitake Bone Broth",
+      "oldImage": "Shiitake_bone_broth_warming_733c04ad.png",
+      "newImage": "/attached_assets/generated_images/Shiitake_bone_broth_warming_733c04ad.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "a87eccf9-e9b5-4fc9-a1c8-ac8a5e82560b",
+      "recipeName": "Maca Root Breakfast",
+      "oldImage": "Superfood_breakfast_bowl_stack_ea43e604.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 3%"
+    },
+    {
+      "id": "59ac181c-9c92-4cd6-b7f2-baf198d27d10",
+      "recipeName": "Chicken Shawarma Bowl",
+      "oldImage": "Classic_chicken_vegetable_soup_bowl_e1302d3c.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "1524d689-7c4e-4794-bf6e-7a8af9ed9495",
+      "recipeName": "Protein Power Bowl",
+      "oldImage": "Protein_Power_Bowl_abf7e5fe.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "3dc38a91-a753-4568-ada3-2dd4b3bb6135",
+      "recipeName": "Lions Mane Smoothie",
+      "oldImage": "Lions_Mane_brain_smoothie_02eb05c8.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "507896b3-63be-4b87-83af-186149464c3e",
+      "recipeName": "Greek Chicken Bowl",
+      "oldImage": "Greek_chicken_bowl_fresh_fa533c9f.png",
+      "newImage": "/attached_assets/generated_images/Greek_chicken_bowl_Mediterranean_dcdb596e.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 10%"
+    },
+    {
+      "id": "d25d2577-0389-4a75-b732-1ed595b46cc1",
+      "recipeName": "Greek Salad with Chicken",
+      "oldImage": "Fresh_Asian_chicken_salad_9dcbe7dd.png",
+      "newImage": "/attached_assets/generated_images/Fresh_Asian_chicken_salad_9dcbe7dd.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 10%"
+    },
+    {
+      "id": "52276bdf-ddeb-4924-b33d-2f5271bed97e",
+      "recipeName": "Chicken Teriyaki",
+      "oldImage": "Greek_chicken_bowl_Mediterranean_dcdb596e.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "38f8674f-87bf-40bd-9281-5ca86d03b75c",
+      "recipeName": "Mediterranean Grain Bowl",
+      "oldImage": "Mediterranean_bulgur_grain_bowl_cc0a46bd.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "b660fb31-6d36-47bb-a6a6-6b6ecc2b1d4a",
+      "recipeName": "Protein Smoothie Bowl",
+      "oldImage": "Protein_Smoothie_Bowl_e9591379.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "403e194f-cdee-4c11-a01d-4e0572941285",
+      "recipeName": "Lucuma Breakfast Bowl",
+      "oldImage": "Ancient_grain_medley_breakfast_bowl_acf14685.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "4a3a88cd-4949-489f-afce-918ad9ad0c22",
+      "recipeName": "Breakfast Wrap",
+      "oldImage": "Holographic_breakfast_cosmic_bowl_9dbc0c28.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 2%"
+    },
+    {
+      "id": "1bc11933-3c67-4004-96b5-1cc4e94b2547",
+      "recipeName": "Quantum Nutrition Bowl",
+      "oldImage": "Quantum_Nutrition_Bowl_47d04408.png",
+      "newImage": "/attached_assets/generated_images/Cacao_breakfast_bowl_healthy_5f9a51e5.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "c6d796ea-efa8-42be-8669-99f549453ca0",
+      "recipeName": "Quinoa Stuffed Tomatoes",
+      "oldImage": "Quinoa_Stuffed_Tomatoes_5e897af4.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 18%"
+    },
+    {
+      "id": "bc3570c8-849e-4948-9dd8-8c3fe6ca7f35",
+      "recipeName": "Peruvian Quinoa Soup",
+      "oldImage": "Hearty_vegetable_soup_bowl_658e50f6.png",
+      "newImage": "/attached_assets/generated_images/Peruvian_Quinoa_Soup_2f640a9a.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "1137eb21-315d-4bd4-bdd0-3eeb87bc74f5",
+      "recipeName": "Mixed Berry Swirl Cheesecake",
+      "oldImage": "Mixed_berry_swirl_cheesecake_slice_c66b0d71.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "b61dccce-ae34-42a8-8454-be35ff8956b1",
+      "recipeName": "Superfood Energy Balls",
+      "oldImage": "Superfood_energy_balls_simple_d072df36.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "f406f9e5-0ff2-4d65-85ae-f9f62e372e05",
+      "recipeName": "Grilled Vegetable Stack",
+      "oldImage": "Grilled_vegetable_mozzarella_stack_f66d13d5.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "e49ae65e-b170-4dcc-a547-3c3810b17df1",
+      "recipeName": "Chicken Fajitas",
+      "oldImage": "Chicken_vegetable_healthy_plate_1a6c366d.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "fc9380f2-f428-4abb-85ab-642515c501cf",
+      "recipeName": "Mediterranean Wrap",
+      "oldImage": "Mediterranean_wrap_with_filling_e2af5916.png",
+      "newImage": "/attached_assets/generated_images/Chicken_burger_lettuce_wrap_82e679ac.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "469cf500-2a1a-4432-8015-4717bb04705f",
+      "recipeName": "Antioxidant Berry Blend",
+      "oldImage": "Antioxidant_berry_blend_low_gi_berries_6b4e9a1f.png",
+      "newImage": "/attached_assets/generated_images/Berry_chia_mousse_glass_b3bb788f.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "2947bb4f-aa05-4819-8a0f-9c81a980e34e",
+      "recipeName": "Lemon Greek Yogurt Cheesecake",
+      "oldImage": "Lemon_Greek_yogurt_cheesecake_slice_408bed67.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "90970c15-2152-4e7b-a970-787ceeffa5da",
+      "recipeName": "Chicken Parmesan",
+      "oldImage": "Chicken_Parmesan_1758003444026.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "2d452da9-43cc-41ba-86cd-5c8f4115beda",
+      "recipeName": "Chickpea Salad Sandwich",
+      "oldImage": "Soup_and_salad_combo_meal_b4bf5903.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 2%"
+    },
+    {
+      "id": "c46c5e70-9393-4007-bc73-7d161486a42a",
+      "recipeName": "Seeded Crackers",
+      "oldImage": "Simple_seeded_crackers_homemade_d521c76f.png",
+      "newImage": "/attached_assets/generated_images/Almond_flour_flatbread_golden_26b6e0bc.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "9e2754b9-a4ee-4cfb-945b-51bb25d1c225",
+      "recipeName": "Steel Cut Oatmeal with Berries",
+      "oldImage": "Steel_cut_oatmeal_berries_b71ba7e1.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 15%"
+    },
+    {
+      "id": "153ba9d9-e676-40fd-841a-c09b737545e1",
+      "recipeName": "Quinoa Power Bowl",
+      "oldImage": "Quinoa_Power_Bowl_61049558.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 11%"
+    },
+    {
+      "id": "2fa73ce4-1fd3-41d5-91c9-e1b9a97c7843",
+      "recipeName": "Quinoa Tabbouleh Bowl",
+      "oldImage": "Quinoa_Tabbouleh_Bowl_3886b9f1.png",
+      "newImage": "/attached_assets/generated_images/Quinoa_Tabbouleh_Bowl_3886b9f1.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 12%"
+    },
+    {
+      "id": "8b3ef444-4da8-424b-a579-f7d64cd2117f",
+      "recipeName": "AMPK Pathway Meal",
+      "oldImage": "AMPK_pathway_dinner_meal_cdfb1cad.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "1bda98a9-a1f2-4bb0-a494-3527fd431576",
+      "recipeName": "Mulberry Breakfast Bowl",
+      "oldImage": "Mediterranean_morning_breakfast_bowl_326ffad6.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "1baf912a-6184-400c-9eec-e4df0f45dfb2",
+      "recipeName": "French Ratatouille",
+      "oldImage": "French_ratatouille_dish_2c7428ce.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "de41b106-c599-439c-9cfa-0cf565b85449",
+      "recipeName": "Universal Love Bowl",
+      "oldImage": "Breakfast_salad_bowl_complete_75b5b80a.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 3%"
+    },
+    {
+      "id": "6c857e46-3425-4b57-9fea-043bce93e44b",
+      "recipeName": "Fractal Pattern Snack",
+      "oldImage": "Fractal_pattern_vegetable_snack_f0c771e7.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "ff6ec6c5-adb0-4374-841b-9e0e5ddd3986",
+      "recipeName": "DNA Repair Morning Bowl",
+      "oldImage": "Matcha_morning_smoothie_bowl_4c8e640f.png",
+      "newImage": "/attached_assets/generated_images/DNA_Repair_Morning_Bowl_d9d02c94.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "7842c84c-d03f-4367-8563-8381efde4123",
+      "recipeName": "Green Smoothie Ice Pops",
+      "oldImage": "Green_smoothie_ice_popsicles_ec5829aa.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "d8f24a99-058c-4195-a52f-dc9f38925f64",
+      "recipeName": "Activated Charcoal Smoothie",
+      "oldImage": "Activated_charcoal_detox_smoothie_16e79598.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "554b63c3-f300-4f37-a41c-46af2c7954b4",
+      "recipeName": "Ultimate Superfood Stack",
+      "oldImage": "Ultimate_superfood_breakfast_stack_aaa6f8d6.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "ace15252-9f2c-40ed-9fc9-fbc1fe706a72",
+      "recipeName": "Asian Fusion Bowl",
+      "oldImage": "Asian_fusion_grain_bowl_582617f9.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "fc65d6bb-b760-43a6-b18d-eeb37f2967ae",
+      "recipeName": "Ocean Restoration Dinner",
+      "oldImage": "Ocean_Restoration_Dinner_3518e77b.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "337d0c97-6a5a-4b18-bb8f-c3951123b4a0",
+      "recipeName": "Duck Confit Supreme",
+      "oldImage": "Duck_Confit_Supreme_a5c35994.png",
+      "newImage": "/attached_assets/generated_images/Flaxseed_almond_herb_chicken_pizza_f1b930cd.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "3a03bf5e-7e5c-4f0b-9b43-d81ea7ff3e58",
+      "recipeName": "Japanese Kaiseki Dinner",
+      "oldImage": "Japanese_kaiseki_dinner_courses_ce430011.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "759deeab-804d-4fb5-b9b7-3690171b9004",
+      "recipeName": "Ancestral Morning Feast",
+      "oldImage": "Gourmet_salmon_feast_plating_847c0ef3.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "15bc6414-37cd-4a79-b5d3-7bb2cbd1f49c",
+      "recipeName": "Turkish Stuffed Eggplant",
+      "oldImage": "Turkish_stuffed_eggplant_traditional_dish_dda78a83.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "2db6620a-a19a-4706-8632-7637411367a9",
+      "recipeName": "Brazilian Feijoada",
+      "oldImage": "Brazilian_feijoada_black_beans_mixed_meats_vegetables_8a4f2c6b.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "0f8db1d9-39ed-4c48-8fb9-9860a028df65",
+      "recipeName": "Farm to Table Feast",
+      "oldImage": "Farm_to_table_feast_5d2c71d0.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "ba5e4ad4-5570-457f-b9c5-e64ec86794ff",
+      "recipeName": "Vegetable Stir-fry",
+      "oldImage": "Colorful_vegetable_stir-fry_crispy_8eb6550d.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "58f25836-d667-4496-bedc-d849fd0c4c24",
+      "recipeName": "Spiced Pumpkin Seeds",
+      "oldImage": "Spiced_pumpkin_seeds_roasted_60ddfb7d.png",
+      "newImage": "/attached_assets/generated_images/Spiced_pumpkin_seeds_roasted_60ddfb7d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "1be990c1-3400-4e19-9e20-2aae7dfb6e1a",
+      "recipeName": "Frequency Healing Mix",
+      "oldImage": "Frequency_healing_elixir_mix_9d9d74b8.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "fa802e06-fa95-4aa8-8bdb-b4707dcec389",
+      "recipeName": "Gourmet Salmon Feast",
+      "oldImage": "Gourmet_salmon_feast_plating_847c0ef3.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "50359a06-3059-4270-a8a7-d71f438cb4d4",
+      "recipeName": "Breakfast Grain Bowl",
+      "oldImage": "Breakfast_grain_bowl_colorful_medley_0e312687.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "24fb5ffb-dc38-4e35-b389-164cd97879e5",
+      "recipeName": "Planetary Wellness Lunch",
+      "oldImage": "Planetary_Wellness_Lunch_8bd63c30.png",
+      "newImage": "/attached_assets/generated_images/Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "2af76423-9c72-49c8-9df6-424c5ab7f818",
+      "recipeName": "Quinoa Breakfast Porridge",
+      "oldImage": "Quinoa_Breakfast_Porridge_b1326320.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "402c36c1-abf5-4dad-afa0-90e4f5836181",
+      "recipeName": "Baobab Breakfast Mix",
+      "oldImage": "Baobab_breakfast_mix_superfood_bowl_404196e4.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "e84f4116-5260-452b-a81a-ce6ab50b7820",
+      "recipeName": "Perfect Peace Snack",
+      "oldImage": "Perfect_Peace_Snack_6a1314d7.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "fb4842f8-add3-4bc5-bef7-b35d8ad5934f",
+      "recipeName": "Forest Stewardship Meal",
+      "oldImage": "Forest_stewardship_meal_2c452ff1.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "65a524e3-e9b7-472a-a4d3-5d93891f4247",
+      "recipeName": "Scandinavian Forest Meal",
+      "oldImage": "Scandinavian_forest_meal_Nordic_67ee44ea.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "cc67b6f2-48dd-4339-976a-01df5da2768b",
+      "recipeName": "Rainforest Floor Lunch",
+      "oldImage": "Rainforest_Floor_Lunch_c60913de.png",
+      "newImage": "/attached_assets/generated_images/Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "58587501-dd70-4616-b1ca-c14449f0551f",
+      "recipeName": "Michelin Star Home Dinner",
+      "oldImage": "Michelin_star_home_dinner_6edf78c7.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "76fa9a79-eddc-4a4f-bb6e-cf234e287bc2",
+      "recipeName": "Infinity Energy Snack",
+      "oldImage": "Infinity_energy_snack_balls_cc831b24.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "8866ae32-da86-4190-9ee8-def1f505e85e",
+      "recipeName": "Morning Bowl",
+      "oldImage": "Berry_chia_mousse_glass_b3bb788f.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "9506c0b6-d966-42c3-be32-18ce685b119f",
+      "recipeName": "Thyroid Support Lunch",
+      "oldImage": "Thyroid_support_lunch_metabolism_b18029a8.png",
+      "newImage": "/attached_assets/generated_images/Modern_cauliflower_soup_black_bowl_b13e38af.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "02f6c8ad-76ce-4938-8840-1c185edf44d7",
+      "recipeName": "Pollinator Support Dinner",
+      "oldImage": "Pollinator_Support_Dinner_4836cbad.png",
+      "newImage": "/attached_assets/generated_images/Flaxseed_almond_herb_chicken_pizza_f1b930cd.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "8f4c97b8-289b-4108-abf9-6392617cefd0",
+      "recipeName": "Chinese Chow Mein",
+      "oldImage": "Chinese_chow_mein_sprouts_63ae6c6b.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "c4e3a8e3-a940-4186-a4b7-ccae6a791755",
+      "recipeName": "Sirtuin Activation Dinner",
+      "oldImage": "Sirtuin_activation_longevity_dinner_32f25371.png",
+      "newImage": "/attached_assets/generated_images/Thai_green_curry_authentic_dish_45ce966e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "97143d2e-1ab4-4872-8dda-0520bc9ac819",
+      "recipeName": "Mesquite Morning Bowl",
+      "oldImage": "DNA_Repair_Morning_Bowl_d9d02c94.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "376d6ab4-2091-49cf-a0b4-b014d8c0d320",
+      "recipeName": "Electrolyte Recovery Drink",
+      "oldImage": "Electrolyte_Recovery_Drink_bf2fc282.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "9b57fbdb-3a9b-4550-aca0-0838fd2f4c32",
+      "recipeName": "Raw Food Breakfast Plate",
+      "oldImage": "Raw_Food_Breakfast_4acf3f86.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "49025c8e-ea10-406f-975f-a219ecefc166",
+      "recipeName": "Fresh Spring Rolls",
+      "oldImage": "Fresh_spring_rolls_lettuce_wraps_2093e2c0.png",
+      "newImage": "/attached_assets/generated_images/Fresh_spring_rolls_lettuce_wraps_2093e2c0.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 11%"
+    },
+    {
+      "id": "26bfbeba-aa67-447a-ae94-88cd816d7cfe",
+      "recipeName": "Grilled Chicken Caesar Salad",
+      "oldImage": "Grilled_chicken_caesar_salad_8ca90218.png",
+      "newImage": "/attached_assets/generated_images/Grilled_chicken_caesar_salad_8ca90218.png",
+      "reason": "RECOMMENDED: "
+    },
+    {
+      "id": "40f68e78-90f3-4f5b-9a23-ad6d642299d9",
+      "recipeName": "Grilled Chicken Thighs",
+      "oldImage": "Grilled_chicken_thighs_Mediterranean_cb1f25cc.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "4d7f5038-94f6-41c3-a892-39c442a33d1e",
+      "recipeName": "Pork Tenderloin",
+      "oldImage": "Pork_Tenderloin_aac2f34e.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "9d8beef8-4baa-4989-bf9f-1e0f1cea4319",
+      "recipeName": "Anti-Inflammatory Healing Bowl",
+      "oldImage": "Anti-inflammatory_healing_meal_plate_3ad15d06.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "b5cf76ef-6aaf-4906-a795-56bf58eef868",
+      "recipeName": "Grilled Tuna Steaks",
+      "oldImage": "Sesame_crusted_tuna_steaks_74f63fb3.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "04ef869e-7659-4d0c-a055-63487433c45e",
+      "recipeName": "Antioxidant Berry Mix",
+      "oldImage": "Antioxidant_berry_mix_high_fiber_berries_9c7d2a5e.png",
+      "newImage": "/attached_assets/generated_images/Antioxidant_berry_mix_high_fiber_berries_9c7d2a5e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "33039336-8673-42c7-9832-9be06edb1270",
+      "recipeName": "Ancient Grain Medley",
+      "oldImage": "Mediterranean_ancient_grains_bowl_c310f101.png",
+      "newImage": "/attached_assets/generated_images/Colorful_cauliflower_rice_vegetable_bowl_dcfada4c.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "d71b155c-7746-4b52-a7e1-333cf0b80514",
+      "recipeName": "Herb-Crusted Baked Cod",
+      "oldImage": "Herb_crusted_cod_dinner_014c394f.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "dfeb82de-6f56-486b-bde1-98ff51178447",
+      "recipeName": "Avocado Chocolate Mousse",
+      "oldImage": "Chocolate_avocado_mousse_a673703e.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_avocado_mousse_a673703e.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 12%"
+    },
+    {
+      "id": "859be9e0-47ed-4f0a-8eb9-bd499fbe0bf9",
+      "recipeName": "Wild Boar Ragu",
+      "oldImage": "Asian_beef_vegetable_stir-fry_5ca22833.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "38fb7ab6-f583-4529-a3ce-c5d0354f11f3",
+      "recipeName": "Classic Chicken Vegetable Soup",
+      "oldImage": "Classic_chicken_vegetable_soup_bowl_e1302d3c.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "54a55409-3963-4c93-bd3d-c5e780eb547e",
+      "recipeName": "Mediterranean Quinoa Salad",
+      "oldImage": "Colorful_cauliflower_rice_vegetable_bowl_dcfada4c.png",
+      "newImage": "/attached_assets/generated_images/Mediterranean_quinoa_salad_bowl_d1572563.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "1b3f7a31-1b55-43db-8d2f-07be7732016b",
+      "recipeName": "Biodiversity Bowl",
+      "oldImage": "Colorful_biodiversity_vegetable_bowl_9a90ffd1.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 3%"
+    },
+    {
+      "id": "4f0d9a61-8490-4f20-b757-88e4d0c8da35",
+      "recipeName": "Himalayan Breakfast Bowl",
+      "oldImage": "Himalayan_breakfast_superfood_bowl_db8bf545.png",
+      "newImage": "/attached_assets/generated_images/Hemp_seed_breakfast_bowl_8e5b6097.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "19f923b1-3b2d-4084-ac1e-3592b91002d3",
+      "recipeName": "Nigerian Jollof Rice",
+      "oldImage": "Nigerian_Jollof_Rice_9745ae67.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "fffdc058-e680-4cad-8e4b-681f2011c1e9",
+      "recipeName": "Morning Muesli",
+      "oldImage": "Smoothie_bowl_with_granola_f73aa4d0.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 0%"
+    },
+    {
+      "id": "933a6f4a-b895-44fd-8a68-801974234b6d",
+      "recipeName": "Breakfast Smoothie Bowl",
+      "oldImage": "Breakfast_smoothie_bowl_colorful_toppings_fa995915.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 10%"
+    },
+    {
+      "id": "930f8a46-f845-47e4-ace0-fd7a73155c8d",
+      "recipeName": "Breakfast Burrito Bowl",
+      "oldImage": "Breakfast_burrito_bowl_deconstructed_healthy_37c27caf.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "1395352f-bb61-49c0-8165-1db919dbabcf",
+      "recipeName": "Parallel Universe Bowl",
+      "oldImage": "Parallel_Universe_Bowl_c6f7826a.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "25d82f5b-3b8e-49fb-958d-462e12166382",
+      "recipeName": "Breakfast Spelt Porridge",
+      "oldImage": "Breakfast_amaranth_porridge_healthy_bowl_15170225.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "01770f96-0850-4275-9591-80ca11448b26",
+      "recipeName": "Nordic Berry Breakfast",
+      "oldImage": "Nordic_Berry_Breakfast_7da74337.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "0a21132f-6e15-41ce-a5a3-6b3cfa8eb75e",
+      "recipeName": "Chocolate Avocado Nice Cream",
+      "oldImage": "Chocolate_avocado_nice_cream_4b220081.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_avocado_mousse_a673703e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "aebe6927-2965-41d4-aea1-e3000e2f402c",
+      "recipeName": "Mediterranean Vegetable Salad",
+      "oldImage": "Greek_chicken_bowl_Mediterranean_dcdb596e.png",
+      "newImage": "/attached_assets/generated_images/Hemp_seed_breakfast_bowl_8e5b6097.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 2%"
+    },
+    {
+      "id": "7d077972-33ed-42f1-b9ab-ff5f0143735b",
+      "recipeName": "Methylation Support Mix",
+      "oldImage": "Methylation_support_nutrient_mix_2c681c05.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "24ccbc9e-a678-402d-a5e7-399c7d965dab",
+      "recipeName": "Seed and Nut Mix",
+      "oldImage": "Simple_seed_nut_mix_30d3ebe2.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "2cf314e1-9656-4b0b-9527-0767b2f7cec1",
+      "recipeName": "Electrolyte Balance Drink",
+      "oldImage": "Electrolyte_Balance_Drink_c05f5fdc.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "2b790011-3511-4f00-be5f-10f010ad1c49",
+      "recipeName": "Turkish Kebabs",
+      "oldImage": "Turkish_kebabs_grilled_lamb_vegetables_c758274e.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "68685485-871e-41a3-86e7-c6963dc973d3",
+      "recipeName": "Coconut Date Balls",
+      "oldImage": "Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack"
+    },
+    {
+      "id": "a2de2c37-4e5b-4a58-85f1-c800c2c68e5a",
+      "recipeName": "Nut Butter Energy Bites",
+      "oldImage": "Nut_Butter_Energy_Bites_068f10c4.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "d9c0331d-4979-4c0e-bf97-eb63b2f5029c",
+      "recipeName": "Breakfast Salad Bowl",
+      "oldImage": "Fresh_breakfast_salad_bowl_979290ff.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "04bd3688-9970-4c20-80f7-9f682008dca2",
+      "recipeName": "Greek Yogurt Berry Parfait",
+      "oldImage": "Greek_yogurt_parfait_56690c6c.png",
+      "newImage": "/attached_assets/generated_images/Berry_chia_mousse_glass_b3bb788f.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "62fbbaef-5832-4dff-b2c3-86a123a12126",
+      "recipeName": "Latin Fiesta Bowl",
+      "oldImage": "Autophagy_activation_health_bowl_a1589b79.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 2%"
+    },
+    {
+      "id": "00675cad-2e10-41a9-8e5b-99e56b3b5be2",
+      "recipeName": "Berry Coconut Ice Cream",
+      "oldImage": "Berry_coconut_ice_cream_8f39171a.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "63d5f1f7-f334-490e-93ec-97717b6baf55",
+      "recipeName": "Grilled Salmon Fillet",
+      "oldImage": "Grilled_salmon_vegetables_4dba9c48.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "3cf3d872-4fa0-44af-bc7a-b93316c81ad6",
+      "recipeName": "Asian Fusion Grain Bowl",
+      "oldImage": "Asian_fusion_buddha_bowl_888f9a5f.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "ecaba3ee-052f-488f-856b-444b4554c027",
+      "recipeName": "Digestive Health Special",
+      "oldImage": "Digestive_Health_Bowl_51486892.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "12b550f2-1877-4483-a2b8-32d84c9fab62",
+      "recipeName": "Morning Chia Bowl",
+      "oldImage": "DNA_Repair_Morning_Bowl_d9d02c94.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "06ed3c7a-d862-4fe4-a275-257f23e6f0c8",
+      "recipeName": "Breakfast Sorghum Bowl",
+      "oldImage": "Anti-aging_telomere_breakfast_bowl_18de5b44.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "0aa3e6d4-d574-454c-ba8d-60ab4dccf6c0",
+      "recipeName": "Infinite Gratitude Dinner",
+      "oldImage": "Infinite_gratitude_thanksgiving_dinner_60d5b518.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_roasted_veggie_pizza_6f3058a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "ef1aa32d-a0be-4a24-841d-d0b3eee8024f",
+      "recipeName": "Broccoli-flax crust with extra-lean ground beef",
+      "oldImage": "Broccoli-flax_gooey_beef_pizza_8f7faa35.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "c1461c3e-709b-42c6-90af-8df0fd27a92d",
+      "recipeName": "Very Berry Breakfast",
+      "oldImage": "Nordic_Berry_Breakfast_7da74337.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "687e3528-0912-4ea5-94f2-3544d8f739f9",
+      "recipeName": "Fresh Fish Bowl",
+      "oldImage": "Fresh_fish_bowl_salmon_6897bce2.png",
+      "newImage": "/attached_assets/generated_images/Fresh_fish_bowl_salmon_6897bce2.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 13%"
+    },
+    {
+      "id": "dfba653a-4536-4bb2-a5ea-f008b004b99a",
+      "recipeName": "Siberian Strength Bowl",
+      "oldImage": "Siberian_strength_bowl_hearty_5689edf4.png",
+      "newImage": "/attached_assets/generated_images/Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "b91a5ee1-4daf-48e0-b4de-de58b1e677e6",
+      "recipeName": "Veggie Breakfast Burrito",
+      "oldImage": "Breakfast_burrito_bowl_deconstructed_healthy_37c27caf.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "99a47e37-e870-4cde-9ab0-57a6982a57ab",
+      "recipeName": "Adaptogen Energy Bites",
+      "oldImage": "Adaptogen_energy_bites_balls_880e038d.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "c7db09d1-4c6b-48de-b06f-cfafa8055317",
+      "recipeName": "Unsweetened Almond Milk",
+      "oldImage": "Unsweetened_almond_milk_glass_70f4c13b.png",
+      "newImage": "/attached_assets/generated_images/Ashwagandha_almond_milk_latte_052729fb.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: beverage"
+    },
+    {
+      "id": "85111fc7-b977-46f0-8332-406bf7877297",
+      "recipeName": "Flaxseed & almond crust pizza",
+      "oldImage": "Flaxseed_almond_gooey_pizza_31f44ccb.png",
+      "newImage": "/attached_assets/generated_images/Flaxseed_almond_crust_pizza_5bfe36a9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "75af7bdb-7389-45a4-86e6-28246f2bd241",
+      "recipeName": "Coconut Yogurt Parfait",
+      "oldImage": "Greek_yogurt_parfait_56690c6c.png",
+      "newImage": "/attached_assets/generated_images/Greek_yogurt_berry_parfait_e282c845.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "82f2d0f3-7692-4e82-8a2a-67c66e336a75",
+      "recipeName": "Italian Chopped Salad",
+      "oldImage": "Italian_chopped_salad_meats_5be62655.png",
+      "newImage": "/attached_assets/generated_images/Italian_chopped_salad_meats_5be62655.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "cfaf7355-fdd3-40bd-9185-531f16d5a96c",
+      "recipeName": "Classic Vanilla Bean Cheesecake",
+      "oldImage": "Classic_vanilla_bean_cheesecake_elegant_6d49067b.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "6a33905a-e421-48e9-be37-e6b05ea051f4",
+      "recipeName": "Italian Osso Buco",
+      "oldImage": "Italian_osso_buco_braised_veal_5a5050b8.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "5e1bb989-12e4-40c2-8aca-0e3326a4ef0a",
+      "recipeName": "Vegetable Barley Soup",
+      "oldImage": "Hearty_vegetable_soup_bowl_658e50f6.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "336acffb-a5f6-4503-a49e-2245a7e37cb3",
+      "recipeName": "Beef Bourguignon",
+      "oldImage": "Beef_Bourguignon_1758003372634.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "2dcf4a3f-c011-49fe-a546-80913a9225ba",
+      "recipeName": "Breakfast Quinoa Bowl",
+      "oldImage": "Breakfast_Quinoa_Bowl_1758003407366.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 13%"
+    },
+    {
+      "id": "dc462eb0-a26e-496c-93de-439ba244a2d4",
+      "recipeName": "Mediterranean Grain Salad",
+      "oldImage": "Mediterranean_grain_salad_fresh_7c73b5ef.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "989f2f8e-b118-4621-ac4a-40bfac11235d",
+      "recipeName": "Chicken Tikka Masala",
+      "oldImage": "Thai_coconut_curry_chicken_vegetables_01c31b7a.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "1cf3d39c-c096-4d14-bd07-acb2e208b9ae",
+      "recipeName": "Enlightenment Snack",
+      "oldImage": "Enlightenment_Snack_Balls_4df72b62.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "3f8638d2-b7af-4306-bf46-bbd21a567644",
+      "recipeName": "Nordic Wellness Bowl",
+      "oldImage": "Nordic_Wellness_Bowl_6d76b0b3.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "94c701c8-079d-4d6f-a39c-585e93e3b79c",
+      "recipeName": "Power Bowl",
+      "oldImage": "Protein_power_bowl_healthy_948e2a51.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "4dd1f025-9021-414c-8a7a-c987266bc1a8",
+      "recipeName": "Desert Oasis Bowl",
+      "oldImage": "Asian_fusion_buddha_bowl_888f9a5f.png",
+      "newImage": "/attached_assets/generated_images/Mixed_nuts_and_seeds_bowl_269fbabf.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 3%"
+    },
+    {
+      "id": "f3618d71-28d9-410f-8626-a096210be19e",
+      "recipeName": "Turkey Meatloaf",
+      "oldImage": "Turkey_meatloaf_healthy_sliced_9ac7e709.png",
+      "newImage": "/attached_assets/generated_images/Flaxseed_almond_herb_chicken_pizza_f1b930cd.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "c6e9437a-e6f0-49cc-9bae-6440e67d8c63",
+      "recipeName": "Garden Fresh Wrap",
+      "oldImage": "Fresh_spring_rolls_lettuce_wraps_2093e2c0.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "8fcf1853-6c9c-4e3b-8edb-d117ef735c5d",
+      "recipeName": "Grain Salad Bowl",
+      "oldImage": "Breakfast_grain_salad_fresh_colorful_a5d2ead4.png",
+      "newImage": "/attached_assets/generated_images/Mediterranean_quinoa_salad_bowl_d1572563.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "3eabf1cf-7075-4e14-9c6d-fb9a16dffd28",
+      "recipeName": "Patagonian Power Bowl",
+      "oldImage": "Patagonian_Power_Bowl_065702de.png",
+      "newImage": "/attached_assets/generated_images/Quinoa_Power_Bowl_61049558.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "6b4b1358-ef82-421f-96dd-08c449aca1d2",
+      "recipeName": "Athletic Performance Bowl",
+      "oldImage": "Athletic_Performance_1758003356306.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "c502eaaf-376e-4cc6-a64b-7cca387a5894",
+      "recipeName": "Thai Coconut Curry",
+      "oldImage": "Thai_green_curry_authentic_dish_45ce966e.png",
+      "newImage": "/attached_assets/generated_images/Thai_coconut_curry_chicken_vegetables_01c31b7a.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "fcec7c5e-0ebe-4921-b0c3-7b74344a2c8a",
+      "recipeName": "Egg and Vegetable Muffins",
+      "oldImage": "Egg_vegetable_muffins_776e309a.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "0250a353-3630-4fe3-b8f3-f100e417e3c8",
+      "recipeName": "Seasonal Soup Bowl",
+      "oldImage": "Seasonal_soup_bowl_fresh_87343ee5.png",
+      "newImage": "/attached_assets/generated_images/Modern_cauliflower_soup_black_bowl_b13e38af.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "9c6b16cd-0dfc-4a56-b46f-1e04140bc5c4",
+      "recipeName": "Meteor Shower Snack",
+      "oldImage": "Meteor_shower_snack_variation_one_befe806d.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_Chip_Almond_Cookies_7715798b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "9723dbaf-c89d-4c1d-b6bf-e40b6c68b9f1",
+      "recipeName": "Autophagy Activation Bowl",
+      "oldImage": "Longevity_gene_activation_bowl_fa91189a.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "9075f4d5-4194-407f-b7f0-83669ac79569",
+      "recipeName": "Prairie Wind Breakfast",
+      "oldImage": "Rustic_superfood_breakfast_bowl_91f0fa83.png",
+      "newImage": "/attached_assets/generated_images/Steel_cut_oatmeal_berries_b71ba7e1.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "030c03e3-70e0-4ef4-ad2e-85b5d03af315",
+      "recipeName": "Nut Butter Bowl",
+      "oldImage": "Nut_Butter_Bowl_c90675f0.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "066b552c-e066-466d-8790-ba98e05ba17a",
+      "recipeName": "Moringa Superfood Bowl",
+      "oldImage": "Moringa_superfood_green_smoothie_bowl_7e460016.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "03d76ea0-9682-40f6-b634-f1c40955c55c",
+      "recipeName": "Jungle Canopy Lunch",
+      "oldImage": "Jungle_canopy_lunch_tropical_4761a309.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "0f2fb4ba-3e2b-495f-b3e0-73bc29e4957a",
+      "recipeName": "Mediterranean Morning Bowl",
+      "oldImage": "Mediterranean_morning_breakfast_bowl_326ffad6.png",
+      "newImage": "/attached_assets/generated_images/Greek_chicken_bowl_Mediterranean_dcdb596e.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "be60e838-2be9-452d-ac5b-5d38541e0740",
+      "recipeName": "Morning Power Smoothie",
+      "oldImage": "Morning_power_protein_smoothie_glass_bd3ed3e4.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 12%"
+    },
+    {
+      "id": "dfdf9afc-3e4f-4c87-bc81-566302491820",
+      "recipeName": "Alkalizing Green Juice",
+      "oldImage": "Alkalizing_green_juice_drink_7ba7ca5c.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "2bc77ba0-a032-4b8a-b851-055ef48c8907",
+      "recipeName": "Cacao Breakfast Bowl",
+      "oldImage": "Cacao_breakfast_bowl_healthy_5f9a51e5.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "d4246e5c-91cf-48ac-9ab2-12a86a0502da",
+      "recipeName": "Andean Mountain Meal",
+      "oldImage": "Argentinian_chimichurri_beef_plate_0029793b.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "d89c264c-c0b1-4f37-a646-a9761f64fe79",
+      "recipeName": "Russian Beef Stroganoff",
+      "oldImage": "Russian_Beef_Stroganoff_71514274.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "90bdb1ce-19fd-45d0-985f-2e67313641ba",
+      "recipeName": "Vegetable Pho",
+      "oldImage": "Asian_fusion_buddha_bowl_888f9a5f.png",
+      "newImage": "/attached_assets/generated_images/Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 0%"
+    },
+    {
+      "id": "888900f8-ac30-4cf3-8151-a91f38d43c49",
+      "recipeName": "Moroccan Fish Tagine",
+      "oldImage": "Moroccan_fish_tagine_aromatic_spiced_7bc6d4cb.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "562cc1e4-9912-4f2e-b43f-bc1842bc67c1",
+      "recipeName": "Asian Lettuce Wraps",
+      "oldImage": "Rolled_Asian_lettuce_wraps_bde9d1b5.png",
+      "newImage": "/attached_assets/generated_images/Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "0ddc1bb9-e921-4c2f-91f3-3edbc518fa6c",
+      "recipeName": "Probiotic Breakfast Bowl",
+      "oldImage": "Probiotic_Breakfast_Bowl_27772d50.png",
+      "newImage": "/attached_assets/generated_images/Greek_yogurt_berry_parfait_e282c845.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "fe2f42b7-031f-4955-975f-264c66b7e3f5",
+      "recipeName": "Sahara Sunrise Breakfast",
+      "oldImage": "Sahara_sunrise_breakfast_bowl_be97b1a6.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "19b04fb8-506d-437c-b138-bce05dd26b51",
+      "recipeName": "Thai Green Curry",
+      "oldImage": "Thai_green_curry_authentic_dish_45ce966e.png",
+      "newImage": "/attached_assets/generated_images/Thai_coconut_curry_chicken_vegetables_01c31b7a.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "20119874-a117-443d-97b5-a1b8cfa7a108",
+      "recipeName": "Cauliflower-flax crust with roasted veggies",
+      "oldImage": "Cauliflower-flax_gooey_veggie_pizza_780010e9.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "de14bf2a-7c7f-4b04-9176-3adbffce5c8f",
+      "recipeName": "Chocolate Chip Almond Flour Cookies",
+      "oldImage": "Chocolate_Chip_Almond_Cookies_8b1148a9.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "b720276c-cfa5-493b-80df-bdb1ef915f94",
+      "recipeName": "Vegetable Lasagna",
+      "oldImage": "Zucchini_ricotta_marinara_layered_lasagna_00edf0db.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "cfe4c81b-51aa-4c71-9d96-974895934c03",
+      "recipeName": "Creamy Leek and Turnip Soup",
+      "oldImage": "Creamy_leek_and_turnip_soup_048e02da.png",
+      "newImage": "/attached_assets/generated_images/Creamy_leek_and_turnip_soup_048e02da.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "02c0d35b-0895-48a1-ad7c-741036c4cf09",
+      "recipeName": "Morning Farro Bowl",
+      "oldImage": "DNA_Repair_Morning_Bowl_d9d02c94.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "4b4d354f-baf9-47b7-aa9d-3955561eab4b",
+      "recipeName": "Omega-3 Optimization Snack",
+      "oldImage": "Omega-3_Optimization_Snack_fd47f041.png",
+      "newImage": "/attached_assets/generated_images/Avocado_topped_cucumber_rounds_be46df16.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "9f80b371-67d4-4dcf-aae1-52b7f2ac6a40",
+      "recipeName": "Ketogenic Breakfast Bowl",
+      "oldImage": "Ketogenic_breakfast_bowl_62a08912.png",
+      "newImage": "/attached_assets/generated_images/Avocado_toast_breakfast_35518048.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "04ad82ce-46b9-4fa9-be0e-4537a912db19",
+      "recipeName": "Fresh and Light",
+      "oldImage": "Fresh_and_light_salad_d0289715.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 3%"
+    },
+    {
+      "id": "ab268d09-5ac7-4977-b13d-433054382a8d",
+      "recipeName": "Argentinian Chimichurri Steak",
+      "oldImage": "Argentinian_chimichurri_beef_plate_0029793b.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "fa8e9a01-e2ff-4a63-bea7-a210feae71da",
+      "recipeName": "Green Tea Smoothie",
+      "oldImage": "Green_breakfast_smoothie_fresh_df267e11.png",
+      "newImage": "/attached_assets/generated_images/Berry_coconut_ice_cream_8f39171a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "077627fc-1175-48e4-81a0-fe30bef88c66",
+      "recipeName": "Arctic Nutrition Bowl",
+      "oldImage": "Arctic_nutrition_superfood_bowl_3d1e412f.png",
+      "newImage": "/attached_assets/generated_images/Fresh_fish_bowl_salmon_6897bce2.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "3ce3b702-bd3e-4bb3-8e93-8838beec7114",
+      "recipeName": "Hearty Soup Bowl",
+      "oldImage": "Hearty_vegetable_soup_bowl_658e50f6.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "07ebd29e-17b6-4d56-9e86-79d19b1ca2ac",
+      "recipeName": "Asian Beef Stir-Fry",
+      "oldImage": "Asian_beef_vegetable_stir-fry_5ca22833.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "3cf484bb-72ce-49c2-bbef-c582dc8725db",
+      "recipeName": "Vegetable Curry",
+      "oldImage": "Turmeric_golden_milk_anti-inflammatory_drink_527f122d.png",
+      "newImage": "/attached_assets/generated_images/Thai_coconut_curry_chicken_vegetables_01c31b7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "45f00b30-aa5e-476d-9a36-fa579322c34a",
+      "recipeName": "Traditional Fermented Feast",
+      "oldImage": "Traditional_fermented_foods_probiotic_feast_57012f90.png",
+      "newImage": "/attached_assets/generated_images/Flaxseed_almond_herb_chicken_pizza_f1b930cd.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "bda0e364-eb37-46af-ba56-1a0b8b625c05",
+      "recipeName": "Beef Kabobs",
+      "oldImage": "Grilled_beef_vegetable_kabobs_7aead350.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "16bd749d-d0f4-4986-bc59-f1e153b6c6d9",
+      "recipeName": "Buckwheat Breakfast Bowl",
+      "oldImage": "Breakfast_burrito_bowl_deconstructed_healthy_37c27caf.png",
+      "newImage": "/attached_assets/generated_images/Hemp_seed_breakfast_bowl_8e5b6097.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "1b13adf3-31fc-49f1-84da-9e3ba6725479",
+      "recipeName": "Biophoton Energy Bites",
+      "oldImage": "Glowing_superfood_energy_bites_8268f9c3.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "30a385ae-a076-4299-99bc-33ca9f6610af",
+      "recipeName": "Sacred Geometry Snack",
+      "oldImage": "Sacred_geometry_snack_arrangement_70798961.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "e8888bad-f88d-4870-ae2b-43130437425c",
+      "recipeName": "Lemon Zest Almond Flour Cookies",
+      "oldImage": "Lemon_almond_flour_cookies_e8017d64.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "b33394f0-1eef-4f91-81a9-ebe8aa865233",
+      "recipeName": "Roasted Pumpkin Seeds",
+      "oldImage": "Roasted_Pumpkin_Seeds_228da7b6.png",
+      "newImage": "/attached_assets/generated_images/Roasted_Pumpkin_Seeds_228da7b6.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "fdc7a4e4-61c6-4b3f-afeb-ff0b146e56c8",
+      "recipeName": "Jamaican Curry Chicken",
+      "oldImage": "jamaican_curry_chicken.jpg",
+      "newImage": "/attached_assets/generated_images/Chicken_burger_lettuce_wrap_82e679ac.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "c9c64ebf-0b4f-47ca-a49c-84704b53c8ee",
+      "recipeName": "Tropical Sunset Dinner",
+      "oldImage": "Tropical_sunset_dinner_grilled_fish_07f3cb22.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "1941a7a3-122e-469f-a420-ee75aef94245",
+      "recipeName": "Lentil Vegetable Soup",
+      "oldImage": "Fresh_lentil_vegetable_soup_6423c9c1.png",
+      "newImage": "/attached_assets/generated_images/Fresh_lentil_vegetable_soup_6423c9c1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "57074af1-cecb-4171-98ac-4f96833c079c",
+      "recipeName": "Buddha Bowl",
+      "oldImage": "Buddha_bowl_low_glycemic_1fa48aab.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 2%"
+    },
+    {
+      "id": "a641dc0a-2f8f-49b4-ac2e-1cce4b5d1165",
+      "recipeName": "Power Breakfast Bowl",
+      "oldImage": "Mitochondrial_power_breakfast_bowl_01628b6e.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "be8e98af-a5fe-48a2-8b25-35ccceaad294",
+      "recipeName": "Roasted Chickpeas",
+      "oldImage": "Roasted_Chickpeas_9cd021f4.png",
+      "newImage": "/attached_assets/generated_images/Roasted_Chickpeas_9cd021f4.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack"
+    },
+    {
+      "id": "a6e21f30-0a1d-49f4-b9d6-7b807acaf360",
+      "recipeName": "Roasted Chickpeas Spiced",
+      "oldImage": "Roasted_Chickpeas_Spiced_ab2bb10c.png",
+      "newImage": "/attached_assets/generated_images/Roasted_Chickpeas_Spiced_ab2bb10c.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack"
+    },
+    {
+      "id": "320d65a1-59db-487a-8897-014aa2c1a5fd",
+      "recipeName": "Jamaican Jerk Chicken",
+      "oldImage": "Jamaican_jerk_chicken_f757b2c8.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "98a0e71f-13d1-40c1-9520-2b249d87d653",
+      "recipeName": "Turkey Lettuce Wraps",
+      "oldImage": "Turkey_lettuce_wraps_healthy_meal_73406535.png",
+      "newImage": "/attached_assets/generated_images/Turkey_lettuce_wraps_healthy_meal_73406535.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "371fa83c-b837-44cc-ae96-41df4188aa8a",
+      "recipeName": "Cinnamon Spice Almond Flour Cookies",
+      "oldImage": "Cinnamon_Spice_Almond_Cookies_724a9bf6.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "9eff3a5c-477f-4c9e-ba46-3065b847a676",
+      "recipeName": "Buddha Power Bowl",
+      "oldImage": "Buddha_power_bowl_superfood_9b9d7ffb.png",
+      "newImage": "/attached_assets/generated_images/Mediterranean_quinoa_tahini_bowl_0fe86324.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 3%"
+    },
+    {
+      "id": "ca777586-cd79-47c9-bff3-3ccf5cee027a",
+      "recipeName": "Liver Detox Power Bowl",
+      "oldImage": "Fresh_liver_detox_bowl_de4411f3.png",
+      "newImage": "/attached_assets/generated_images/Beef_broccoli_stir-fry_bowl_de7b3899.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "292af1a8-31d6-40c4-baf4-11849df9e48d",
+      "recipeName": "Mineral Dense Snack Mix",
+      "oldImage": "Mineral_dense_snack_mix_1e12096c.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_Chip_Almond_Cookies_7715798b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "01e9be5b-377e-4f47-8567-a07c9fcdc159",
+      "recipeName": "Japanese Miso Soup Bowl",
+      "oldImage": "Japanese_miso_soup_bowl_traditional_5d113667.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "948dfc69-1cf5-4f0a-a5a7-67484dc2f516",
+      "recipeName": "Classic Vanilla Almond Flour Cookies",
+      "oldImage": "Classic_Vanilla_Almond_Cookies_ad422431.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "37de75dc-eeb0-40fd-8763-416a8c58cee8",
+      "recipeName": "Circadian Reset Breakfast",
+      "oldImage": "Circadian_Reset_Breakfast_8ecbcab7.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "412ccf71-c34b-4ccc-99bb-f0077b50cb5e",
+      "recipeName": "Mountain Peak Dinner",
+      "oldImage": "Mountain_peak_salmon_dinner_b576a726.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "46ace561-4b10-4d2e-8b3a-44bcbcc8277d",
+      "recipeName": "Savory Oatmeal",
+      "oldImage": "Savory_oatmeal_with_vegetables_bad55561.png",
+      "newImage": "/attached_assets/generated_images/Steel_cut_oatmeal_berries_b71ba7e1.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "dbd7cd9c-43c6-419b-965c-c5f336cb4566",
+      "recipeName": "Cottage Cheese with Fruit",
+      "oldImage": "Cottage_Cheese_with_Fruit_c2e1bb0f.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "28e5f2d0-3ba3-450e-b953-25d172203bb7",
+      "recipeName": "Rack of Lamb Provence",
+      "oldImage": "Rack_Lamb_Provence_79dbc3ff.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "48758eee-8216-45cc-bbcc-86c53912f096",
+      "recipeName": "Chia Seed Crackers",
+      "oldImage": "Chia_seed_crackers_crunchy_healthy_c7403d37.png",
+      "newImage": "/attached_assets/generated_images/Coconut_Almond_Flour_Cookies_3c5e7b52.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "a89dfb09-8302-4429-b77f-d3e8e59bf6b1",
+      "recipeName": "Enzyme Rich Living Food",
+      "oldImage": "Enzyme_Rich_Living_Food_2f7b5c69.png",
+      "newImage": "/attached_assets/generated_images/Enzyme_Rich_Living_Food_2f7b5c69.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "7773ce98-418e-4a8b-97bb-c904e3cff85a",
+      "recipeName": "Eternal Bliss Breakfast",
+      "oldImage": "Eternal_Bliss_Breakfast_c8489c9a.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "3ff94270-3c21-4e3d-9b88-e21a842296e7",
+      "recipeName": "Roasted Eggplant Steak with Lentil Flatbread",
+      "oldImage": "Roasted_Eggplant_Steak_Lentil_Flatbread_7e5b2895.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "961f4dd3-0ccd-4a5d-8c36-da00f1085579",
+      "recipeName": "Grilled Portobello Steaks",
+      "oldImage": "Grilled_portobello_mushroom_steaks_d675e8f6.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 19%"
+    },
+    {
+      "id": "ae21c496-c90a-4746-94ea-c97496343ae7",
+      "recipeName": "Rainforest Canopy Meal",
+      "oldImage": "Rainforest_Canopy_Meal_6362b0c5.png",
+      "newImage": "/attached_assets/generated_images/Cacao_breakfast_bowl_healthy_5f9a51e5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "f266b607-4708-48bb-b7e6-68db76787cfa",
+      "recipeName": "Grilled Lamb Chops",
+      "oldImage": "Turkish_kebabs_grilled_lamb_vegetables_c758274e.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "83d78d2e-b5d6-4550-b5a5-c7bd4a7cbf84",
+      "recipeName": "Beef and Broccoli Stir-fry",
+      "oldImage": "Beef_broccoli_stir-fry_bowl_de7b3899.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "87790dbb-e7e0-4d27-88ab-6bf6156afd8a",
+      "recipeName": "Lobster Thermidor",
+      "oldImage": "Lobster_Thermidor_classic_French_bfedaab4.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "0bfc0f51-8ec5-4a1c-ba83-615b5abbfe49",
+      "recipeName": "Reishi Mushroom Tea",
+      "oldImage": "Reishi_Mushroom_Tea_cdb25d5b.png",
+      "newImage": "/attached_assets/generated_images/Reishi_Mushroom_Tea_7f036a3a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack"
+    },
+    {
+      "id": "d1c2f281-da57-40c4-9513-95ccde01b3b7",
+      "recipeName": "Tropical Coconut Nice Cream",
+      "oldImage": "Tropical_coconut_nice_cream_a2dd2b95.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "d238d585-8b29-416d-8b43-4432f9d12430",
+      "recipeName": "Collagen Protein Balls",
+      "oldImage": "Collagen_Protein_Balls_5d22b86d.png",
+      "newImage": "/attached_assets/generated_images/Coconut_Almond_Flour_Cookies_3c5e7b52.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "a2477861-7d52-4422-af7d-ac928b13c33f",
+      "recipeName": "Kidney Function Meal",
+      "oldImage": "Kidney_function_salmon_meal_d875490f.png",
+      "newImage": "/attached_assets/generated_images/Modern_cauliflower_soup_black_bowl_b13e38af.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "dabd6c0d-9ca2-436c-ae34-fe5085a2d826",
+      "recipeName": "Forest Wisdom Snack",
+      "oldImage": "Forest_wisdom_trail_mix_3551906f.png",
+      "newImage": "/attached_assets/generated_images/Cacao_breakfast_bowl_healthy_5f9a51e5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "3c5099fb-23e9-47e5-a622-69ebd29ef657",
+      "recipeName": "Wildlife Habitat Meal",
+      "oldImage": "Wildlife_habitat_meal_25feb96a.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_roasted_veggie_pizza_6f3058a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "2a4c4226-82ec-49d4-8252-88123dd40ac7",
+      "recipeName": "Roasted Chicken Thighs",
+      "oldImage": "Roasted_Chicken_Thighs_66c1f216.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "99ecf390-d644-479e-8c56-bc764c6793bd",
+      "recipeName": "MCT Oil Fat Bombs",
+      "oldImage": "MCT_oil_ketogenic_fat_bombs_083a00e1.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "e7243b8b-8c0a-486f-829d-0bdd6024e80e",
+      "recipeName": "Lunar Eclipse Lunch",
+      "oldImage": "Lunar_eclipse_intuitive_lunch_bowl_d81f717a.png",
+      "newImage": "/attached_assets/generated_images/Modern_cauliflower_soup_black_bowl_b13e38af.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "4bd94544-ad35-4bc8-b7d8-4007d7c3e492",
+      "recipeName": "Crystalline Matrix Lunch",
+      "oldImage": "Crystalline_Matrix_Salad_93200eee.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "fbfc22b3-2c27-4462-bdbd-2e7f1b43f793",
+      "recipeName": "Fresh Spring Mix",
+      "oldImage": "Fresh_spring_mix_salad_a8d5dac6.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "1c47d6dc-9c43-4544-b81d-580a1d2bd766",
+      "recipeName": "Quantum Coherence Snack",
+      "oldImage": "Quantum_Coherence_Snack_05d56a4c.png",
+      "newImage": "/attached_assets/generated_images/Berry_coconut_ice_cream_8f39171a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "3fd8ba98-8ad7-4276-b7e5-99f50c092b6a",
+      "recipeName": "Jamaican Red Peas Soup",
+      "oldImage": "Jamaican red peas soup image_1757722812452.jpg",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "64fec0d5-d875-40ae-a9b1-2a73a44521bf",
+      "recipeName": "Global Fusion Breakfast Bowl",
+      "oldImage": "Global_fusion_breakfast_bowl_f368a8a6.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 16%"
+    },
+    {
+      "id": "952b354a-7d3b-404f-80db-f78d0589367d",
+      "recipeName": "Zucchini Noodle Pasta",
+      "oldImage": "Zucchini_pasta_with_chicken_breast_39986286.png",
+      "newImage": "/attached_assets/generated_images/Grilled_chicken_caesar_salad_8ca90218.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 18%"
+    },
+    {
+      "id": "70c70801-12a4-44a4-9009-5389ed06d559",
+      "recipeName": "Golden Ratio Lunch",
+      "oldImage": "Golden_ratio_lunch_spiral_621fe801.png",
+      "newImage": "/attached_assets/generated_images/Grilled_chicken_caesar_salad_8ca90218.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "2b1136e8-e8fa-4036-ade2-fc826e59a5ac",
+      "recipeName": "Quantum Field Snack",
+      "oldImage": "Quantum_Field_Snack_e717a355.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "535d5d13-f3bc-45ac-b3ff-bf06e593d0e3",
+      "recipeName": "Grilled Vegetables",
+      "oldImage": "Grilled_mixed_vegetables_platter_f4d7d168.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "f4f95621-2b00-468b-9e6e-b7fbcf690b64",
+      "recipeName": "Cottage Cheese Bowl",
+      "oldImage": "Cottage_Cheese_Bowl_6abfcfa8.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "13f7e1f1-b0d0-4042-a1eb-b157bbdbd076",
+      "recipeName": "Hard-Boiled Egg",
+      "oldImage": "Perfect_hard_boiled_eggs_5db07b52.png",
+      "newImage": "/attached_assets/generated_images/Perfect_hard_boiled_eggs_5db07b52.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack"
+    },
+    {
+      "id": "8edd3c4b-e004-4044-acbb-62d1d9c7e1fa",
+      "recipeName": "Herbed Cottage Cheese",
+      "oldImage": "Herbed_cottage_cheese_bowl_316af071.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "23b96faa-b978-42d7-ace6-189fbfefacfa",
+      "recipeName": "Mediterranean Bowl",
+      "oldImage": "Mediterranean_quinoa_tahini_bowl_0fe86324.png",
+      "newImage": "/attached_assets/generated_images/Mediterranean_quinoa_tahini_bowl_0fe86324.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 13%"
+    },
+    {
+      "id": "46385f31-9347-48dc-a05f-b87d387087ed",
+      "recipeName": "Hemp Seed Breakfast",
+      "oldImage": "Hemp_seed_breakfast_bowl_8e5b6097.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "950438fd-1212-4cf3-a2ee-e9deb2f03051",
+      "recipeName": "Himalayan Salt Breakfast",
+      "oldImage": "Himalayan_salt_breakfast_plate_ea201096.png",
+      "newImage": "/attached_assets/generated_images/Avocado_toast_breakfast_35518048.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "fd4a9d5f-4532-478b-bfe9-89489223b45b",
+      "recipeName": "Compassionate Heart Lunch",
+      "oldImage": "Heart-Healing_Compassionate_Lunch_b3653362.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "5e44bbd4-19c8-4bde-ab64-240768bdb137",
+      "recipeName": "Hydrating Cucumber Bites",
+      "oldImage": "Hydrating_cucumber_cream_bites_bdb33339.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "1402fa29-3eca-460d-b015-5f7971d7cf8a",
+      "recipeName": "Immune Supporting Soup Shot",
+      "oldImage": "Immune_supporting_soup_shot_golden_2441f318.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "f49746b7-9b5b-4cd9-857f-04ab329dfcba",
+      "recipeName": "Indian Dal Bowl",
+      "oldImage": "Indian_dal_bowl_spiced_lentils_9758a8ef.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "fa67e668-6204-4463-a7e7-b19902f21f4c",
+      "recipeName": "Crystalline Structure Snack",
+      "oldImage": "Crystalline_Structure_Snack_1aa2e3e7.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "b6bf4678-c2e8-4737-82d7-700e9f082794",
+      "recipeName": "Desert Bloom Breakfast",
+      "oldImage": "Desert_Bloom_Breakfast_3bc5861a.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "d5c7b5eb-615e-4bec-8981-249118417a17",
+      "recipeName": "Mineral Rich Seaweed Snack",
+      "oldImage": "Mineral_rich_seaweed_snack_556a8338.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "e7070c9a-6923-43bb-830f-9845d8f0f4ee",
+      "recipeName": "Korean Kimchi Stew",
+      "oldImage": "Korean_kimchi_stew_2e92492f.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "97313c67-8589-424a-939e-d41d223a9750",
+      "recipeName": "Longevity Gene Activation",
+      "oldImage": "Longevity_gene_activation_bowl_fa91189a.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "8d08cf77-f8eb-483e-b555-e887386b357d",
+      "recipeName": "Maitake Mushroom Soup",
+      "oldImage": "Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "ff0b36e0-86b9-4134-a30c-ba986dc247b8",
+      "recipeName": "Macro Nutrient Perfection Bowl",
+      "oldImage": "Macro_nutrient_perfection_bowl_fcc7a960.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "bf85eb42-c0e8-4ca4-9250-2deb84b39fd4",
+      "recipeName": "Epigenetic Breakfast Bowl",
+      "oldImage": "Epigenetic_Breakfast_Bowl_07d447f0.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "20dd7445-8f96-48a5-b7c8-2ab8e45d7a13",
+      "recipeName": "Mediterranean Fish Bake",
+      "oldImage": "Mediterranean_fish_bake_herbs_102cc0a5.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "f47c745c-394e-42c6-822b-549ea0e92b38",
+      "recipeName": "Cauliflower Rice",
+      "oldImage": "Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 18%"
+    },
+    {
+      "id": "a69a82e3-ed42-48f2-a824-facec1c1fa64",
+      "recipeName": "Greek Stuffed Tomatoes",
+      "oldImage": "Stuffed_tomatoes_Mediterranean_fresh_86069ba7.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "9c5b09dc-fcda-4818-b42d-c38ffff57473",
+      "recipeName": "Source Field Lunch",
+      "oldImage": "Source_field_quinoa_fish_bowl_949175ad.png",
+      "newImage": "/attached_assets/generated_images/Source_field_quinoa_fish_bowl_949175ad.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 13%"
+    },
+    {
+      "id": "abff1627-7d74-4f0e-bd0c-ac65ae99fe1d",
+      "recipeName": "Ketone Boosting Bites",
+      "oldImage": "Ketone_boosting_energy_bites_eba176fb.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "6298f9d9-115a-4339-a917-4ed76ff2b009",
+      "recipeName": "Matcha Morning Bowl",
+      "oldImage": "DNA_Repair_Morning_Bowl_d9d02c94.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "ca911bdd-635e-4bd0-a7e1-08b6528383cc",
+      "recipeName": "Mediterranean Fish Stew",
+      "oldImage": "Mediterranean_fish_stew_herbs_7e30cf67.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "6b2g3h4e-5d6c-7b8f-9a0e-4b5c6d7e8f9a",
+      "recipeName": "Navy Bean Soup",
+      "oldImage": "Navy_Bean_Soup_a56ea5b5.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "74c143e3-06f7-4d9d-9ab7-ceb6c7f5bd12",
+      "recipeName": "Cosmic Energy Snack",
+      "oldImage": "Cosmic_Energy_Snack_59648ad0.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "c62ccca2-60ad-4170-97a9-bc47c7a3f4eb",
+      "recipeName": "Growth Hormone Support",
+      "oldImage": "Growth_hormone_support_foods_39f6e0c8.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "1e3a1aa6-1d50-4cc4-bb17-776fba3518cb",
+      "recipeName": "Cauliflower Fried Rice",
+      "oldImage": "cauliflower fried rice image_1757723483302.jpg",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "d4c08799-35b3-4e69-ba2d-1fb9de690131",
+      "recipeName": "Cucumber Rounds with Tuna",
+      "oldImage": "Cucumber_Rounds_with_Tuna_52b681db.png",
+      "newImage": "/attached_assets/generated_images/Lemon_Greek_yogurt_cheesecake_5f0b1299.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "fc5665ac-1589-460b-a536-427d4a94a555",
+      "recipeName": "Glutathione Boost Bites",
+      "oldImage": "Glutathione_boost_energy_bites_de31e2a9.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "ec0a84ea-ab05-4206-8f54-ec26c5bd08eb",
+      "recipeName": "Quinoa Tabbouleh",
+      "oldImage": "Quinoa_Tabbouleh_0670325d.png",
+      "newImage": "/attached_assets/generated_images/Quinoa_Tabbouleh_Bowl_3886b9f1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "f2f9850a-1a51-410a-a0e2-fddeeafd52cf",
+      "recipeName": "Mediterranean Fish with Cauliflower Rice",
+      "oldImage": "Mediterranean_fish_cauliflower_rice_8ab1f7ee.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "44b239fa-d0b4-40ab-92fb-609b9696af8b",
+      "recipeName": "Microbiome Diversity Plate",
+      "oldImage": "Microbiome_diversity_gut_health_plate_225e8ab8.png",
+      "newImage": "/attached_assets/generated_images/Cacao_breakfast_bowl_healthy_5f9a51e5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "db7c8b11-2a02-4ba3-bd85-b4c88318e770",
+      "recipeName": "Coconut Almond Flour Cookies",
+      "oldImage": "Coconut_Almond_Flour_Cookies_3c5e7b52.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "a22f4bca-a61f-4348-a329-1e0babc4c01b",
+      "recipeName": "Brown Stew Chicken",
+      "oldImage": "brown stew chicken image_1757726004265.jpg",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "3e60404c-627d-4cf9-9dda-e949925645ac",
+      "recipeName": "Mixed Nuts and Seeds",
+      "oldImage": "Mixed_nuts_and_seeds_bowl_269fbabf.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "b4d20110-3b64-4d81-9a23-8fa4e8d7db88",
+      "recipeName": "Paleo Power Breakfast",
+      "oldImage": "Paleo_Power_Breakfast_25dce27e.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "91f2060c-0183-4d13-8dad-3f16ed352fb2",
+      "recipeName": "Curried Chicken",
+      "oldImage": "curried chicken image_1757686434525.jpg",
+      "newImage": "/attached_assets/generated_images/Thai_coconut_curry_chicken_vegetables_01c31b7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "2992654e-79fd-48d8-910d-e82f1abdd6cb",
+      "recipeName": "North American Wild Foods",
+      "oldImage": "North_American_Wild_Foods_b2f08dda.png",
+      "newImage": "/attached_assets/generated_images/Mixed_nuts_and_seeds_bowl_269fbabf.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "3ae2f4ae-5198-4dfa-a184-e2b2787e16ea",
+      "recipeName": "Miso Vegetable Soup",
+      "oldImage": "Japanese_miso_vegetable_soup_bowl_8acc4b0c.png",
+      "newImage": "/attached_assets/generated_images/Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "2f5b1f25-9d92-43d9-bafa-891b7bea4007",
+      "recipeName": "Molecular Gastronomy Experience",
+      "oldImage": "Molecular_gastronomy_artistic_plating_15d79080.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "88e08ad6-771a-497b-a226-b64019763ed2",
+      "recipeName": "African Savanna Bowl",
+      "oldImage": "African_savanna_inspired_grain_bowl_38ef8087.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "8d4f5e6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+      "recipeName": "Nigerian Cauliflower Jollof",
+      "oldImage": "Nigerian_Cauliflower_Jollof_5ac3fcec.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "5d7b5020-e289-43d5-9e54-4af77f6d9487",
+      "recipeName": "Nitric Oxide Boosting Snack",
+      "oldImage": "Nitric_Oxide_Boosting_Snack_dbcf01fa.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_Chip_Almond_Cookies_7715798b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "53cd7d09-1899-42d7-b87c-1ba0782760b9",
+      "recipeName": "Prime Ribeye Special",
+      "oldImage": "Prime_Ribeye_Special_f3d8a03c.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_roasted_veggie_pizza_6f3058a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "5caaa69f-5439-49ac-b9d8-d2fa1e7a0769",
+      "recipeName": "Probiotic Fermented Vegetables",
+      "oldImage": "Probiotic_Fermented_Vegetables_0cca1afe.png",
+      "newImage": "/attached_assets/generated_images/Infinity_energy_snack_balls_cc831b24.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "93b076df-50a5-4279-b6c0-6520dabf006e",
+      "recipeName": "Traditional Caribbean Sorrel Drink",
+      "oldImage": "Caribbean_sorrel_drink_glass_fb010e2c.png",
+      "newImage": "/attached_assets/generated_images/Chamomile_ginger_herbal_tea_4e864d58.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: beverage; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "19eecec6-c511-4530-ab3d-e8d477b0c42b",
+      "recipeName": "Almond-oat thin crust with rainbow veggies",
+      "oldImage": "Almond-oat_rainbow_veggie_gooey_pizza_9a5d7a1d.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "95ad9a6c-8754-46ab-995e-31bee7f00b15",
+      "recipeName": "Blueberry Almond Flour Cookies",
+      "oldImage": "Blueberry_almond_flour_cookies_24c9b99b.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 17%"
+    },
+    {
+      "id": "8c46849c-7369-4a16-85b9-e9370a0bc099",
+      "recipeName": "Power Protein Plate",
+      "oldImage": "Power_Protein_Plate_b10df1c7.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "93c7d0b5-7edd-4720-819f-36456fba4781",
+      "recipeName": "Morning Smoothie",
+      "oldImage": "Morning_green_protein_smoothie_glass_3cf36c0d.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "9469fc58-c520-4e84-bf73-11baa647f7a6",
+      "recipeName": "Functional Medicine Dinner",
+      "oldImage": "Functional_medicine_therapeutic_dinner_ff0f2b0e.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "a9e57143-b3f3-423b-b239-026e94b3a89e",
+      "recipeName": "Mediterranean Mezze Bowl",
+      "oldImage": "Fresh_cauliflower_rice_bowl_d8ed33ef.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 10%"
+    },
+    {
+      "id": "318ba60f-9539-4d8e-b558-3d41ae042ea3",
+      "recipeName": "Baked Cod with Herbs",
+      "oldImage": "Baked_herb-crusted_cod_fillet_84df47ac.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "c063a080-8ce4-475a-a2e5-c2b88993efda",
+      "recipeName": "Mediterranean Sunshine Bowl",
+      "oldImage": "Mediterranean_sunshine_bowl_bright_e13a22aa.png",
+      "newImage": "/attached_assets/generated_images/Modern_cauliflower_soup_black_bowl_b13e38af.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "c51dc4bb-d5fc-45f5-94c0-76da6ee476b5",
+      "recipeName": "Insulin Sensitivity Meal",
+      "oldImage": "Insulin_sensitivity_therapeutic_meal_8701b1ef.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "49066b02-e7a1-4309-b9a4-c4fedea515f7",
+      "recipeName": "Shrimp Scampi",
+      "oldImage": "Shrimp_scampi_zucchini_noodles_dcf1263f.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "27d99221-5658-47a3-be79-92e31c4b19a1",
+      "recipeName": "Adaptogenic Herbal Bites",
+      "oldImage": "Adaptogenic_herbal_energy_bites_a5d515af.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 19%"
+    },
+    {
+      "id": "f9199ef9-01a6-4ef3-bf8d-e34e222c656e",
+      "recipeName": "Overnight Oats",
+      "oldImage": "Overnight_Oats_9626372b.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "b8a495d7-ff31-468f-b093-1b1358b81df7",
+      "recipeName": "Coral Reef Breakfast",
+      "oldImage": "Coral_Reef_Breakfast_Bowl_f6113be5.png",
+      "newImage": "/attached_assets/generated_images/Coral_Reef_Breakfast_Bowl_f6113be5.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "1795d3df-3882-4f2b-8520-3e8169719846",
+      "recipeName": "Jamaican-Style Healthy Cauliflower Rice & Peas",
+      "oldImage": "Jamaican_cauliflower_rice_peas_0a553f69.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "4110483d-a99d-43ec-802e-d5ce115802e2",
+      "recipeName": "Asian Longevity Lunch",
+      "oldImage": "Asian_longevity_health_bowl_c4838ad7.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 2%"
+    },
+    {
+      "id": "2ab01fc8-18cb-4f1a-b30c-266dd8445a22",
+      "recipeName": "Earthing Breakfast Bowl",
+      "oldImage": "Simple_Earthing_Breakfast_141ac7cd.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "7eea6f1a-91b6-41a6-af91-a0b7756a2452",
+      "recipeName": "Estrogen Balance Dinner",
+      "oldImage": "Estrogen_Balance_Dinner_6b5e6cc8.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "0d2f3e29-3445-4999-bd12-f8e36a835082",
+      "recipeName": "Chocolate Peanut Butter Cheesecake",
+      "oldImage": "Chocolate_peanut_butter_cheesecake_slice_123d9455.png",
+      "newImage": "/attached_assets/generated_images/Peanut_butter_chocolate_mousse_de2d67e9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "c3e67bde-1c0c-4be5-aef3-b8dec0e43721",
+      "recipeName": "Ocean Breeze Lunch",
+      "oldImage": "Ocean_Breeze_Lunch_bd3b8cc3.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "b300c416-e5fb-4205-b5e6-63e565c87a92",
+      "recipeName": "Tropical Mango Almond Flour Cookies",
+      "oldImage": "Tropical_mango_almond_flour_cookies_2be94d10.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "a6b77e91-fd7a-401e-b92a-f4242b0f5712",
+      "recipeName": "Almond-oat crust with grilled chicken & spinach",
+      "oldImage": "Almond-oat_gooey_chicken_spinach_pizza_8e3a8d7d.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 19%"
+    },
+    {
+      "id": "af9b8c7e-17a9-4340-b089-f35eef48214f",
+      "recipeName": "Mitochondrial Power Breakfast",
+      "oldImage": "Mitochondrial_power_breakfast_energy_bowl_cd82c97f.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "d443f223-a9e7-4b7a-946c-f53a5fa5b7ea",
+      "recipeName": "NRF2 Activation Meal",
+      "oldImage": "NRF2_Activation_Meal_4e1e9df2.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "aa6c60b9-4e30-4e4f-bc8f-5f1de1571201",
+      "recipeName": "Protein Breakfast Bars",
+      "oldImage": "Protein_Breakfast_Bars_81a4a9a5.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "23257c1e-782d-4ffc-ae8c-cf8927a687fb",
+      "recipeName": "Turkey and Hummus Bowl",
+      "oldImage": "Turkey_hummus_bowl_mediterranean_protein_43076bcf.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "f5981803-1279-4283-b5a1-f743bda489a6",
+      "recipeName": "Prebiotic Fiber Smoothie",
+      "oldImage": "Prebiotic_Fiber_Smoothie_63312012.png",
+      "newImage": "/attached_assets/generated_images/Berry_coconut_ice_cream_8f39171a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "7a64a6aa-0bfc-40ea-bcc1-c4272f0d3d2e",
+      "recipeName": "Breakfast Shakshuka",
+      "oldImage": "Breakfast_shakshuka_low_carb_dd57cc35.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "87dd5d3c-f2ff-47bc-892d-7f39f6948810",
+      "recipeName": "Mexican Quinoa Bowl",
+      "oldImage": "Mexican_quinoa_bowl_colorful_6fc74eec.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 10%"
+    },
+    {
+      "id": "d7280a31-45ee-4148-b8ad-bd81d402cad3",
+      "recipeName": "Mashed Cauliflower",
+      "oldImage": "cauliflower mash image_1757707979265.jpg",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "c75343bd-670d-4051-aebe-076c070b45e9",
+      "recipeName": "Chlorella Green Bowl",
+      "oldImage": "Chlorella_Green_Superfood_Bowl_f9110d94.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 12%"
+    },
+    {
+      "id": "d4f73309-0e6b-47da-bd75-789efb8c53a4",
+      "recipeName": "Middle Eastern Delight",
+      "oldImage": "Middle_Eastern_delight_bowl_dfd29f59.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "7e3de9c4-f6cf-4046-9e53-045dcab09fa1",
+      "recipeName": "Dark Matter Breakfast",
+      "oldImage": "Dark_Matter_Breakfast_455d8e6a.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "11273ac6-26aa-4247-a921-0cafcf22051b",
+      "recipeName": "Hormone Balancing Bowl",
+      "oldImage": "Hormone_balancing_wellness_bowl_47d5eb6b.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "7493a05c-ae83-4f38-9429-8cc6d7838143",
+      "recipeName": "Neuroplasticity Morning Meal",
+      "oldImage": "Neuroplasticity_Morning_Meal_10f1998b.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "c0172452-b15c-4591-b9fb-d15346ff188a",
+      "recipeName": "Perfect Symmetry Bowl",
+      "oldImage": "Perfect_Symmetry_Bowl_c7186f48.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "433e6db7-b797-40ea-a0a8-8f5daaf64c73",
+      "recipeName": "Cauliflower Mac and Cheese",
+      "oldImage": "Cauliflower_mac_and_cheese_47696d13.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "7d488b83-41e5-4b1d-ba0a-384ff0cb35a9",
+      "recipeName": "Chaga Mushroom Drink",
+      "oldImage": "Chaga_mushroom_adaptogenic_drink_f70c1ce9.png",
+      "newImage": "/attached_assets/generated_images/Mint_chocolate_almond_cookies_cadf8761.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "439559ec-f5d1-48f5-86d6-b926a21c34cf",
+      "recipeName": "Detox Cleanse Salad",
+      "oldImage": "Detox_Cleanse_Salad_65bcc493.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "e88fd251-8221-4e35-938c-2c7049019453",
+      "recipeName": "Divine Grace Snack",
+      "oldImage": "Divine_Grace_Snack_1020807c.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "c9588639-a278-4dce-8d0b-061f237d830c",
+      "recipeName": "Carbon Negative Dinner",
+      "oldImage": "Carbon_negative_sustainable_meal_b85fae42.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "d0ae6d22-25cd-4468-9016-f871cb45be89",
+      "recipeName": "Duck Confit",
+      "oldImage": "Duck_Confit_78009242.png",
+      "newImage": "/attached_assets/generated_images/Thai_coconut_curry_chicken_vegetables_01c31b7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "fc5630e3-01f2-4c11-b7ed-e48cbae9f853",
+      "recipeName": "Immune System Warrior Bowl",
+      "oldImage": "Immune_system_warrior_superfood_bowl_fe91edb4.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "4f502193-96d6-4fd2-825d-868bd3a12439",
+      "recipeName": "Future Foods Breakfast",
+      "oldImage": "Future_foods_breakfast_bowl_230a7356.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "691f7d8e-081c-4962-9499-4ace7f41ba7e",
+      "recipeName": "Ashwagandha Latte",
+      "oldImage": "Ashwagandha_almond_milk_latte_052729fb.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack"
+    },
+    {
+      "id": "af4bf258-56da-4b49-b3b8-0a3400965d8b",
+      "recipeName": "Cauliflower Soup",
+      "oldImage": "Modern_cauliflower_soup_black_bowl_b13e38af.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_leek_soup_creamy_bd15da6a.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "cae09950-c423-45cf-8ee8-57e5cba4a34f",
+      "recipeName": "Cauliflower-flax crust with BBQ chicken",
+      "oldImage": "Cauliflower-flax_gooey_BBQ_chicken_52e6384b.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "f4a8b1d9-68ed-4395-bfab-809f4a786704",
+      "recipeName": "Bowl of Goodness",
+      "oldImage": "Wholesome_rainbow_goodness_bowl_09cc053d.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 3%"
+    },
+    {
+      "id": "1f0a3e35-3726-4117-ae5e-d6caa5b2ade7",
+      "recipeName": "Veggie Burger with Lettuce Wraps",
+      "oldImage": "Veggie_burger_lettuce_wrap_974e6a3c.png",
+      "newImage": "/attached_assets/generated_images/Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "7c3h4i5f-6e7d-8c9g-0b1f-5c6d7e8f9a0b",
+      "recipeName": "Nectarine Green Salad",
+      "oldImage": "Nectarine_Green_Salad_26eba5a8.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "f9228f2e-0b96-4665-abf8-da5598578071",
+      "recipeName": "Nootropic Brain Bites",
+      "oldImage": "Nootropic_Brain_Bites_5da07de0.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "4f9e8d32-1a5b-4c6d-8e9f-2a3b4c5d6e7f",
+      "recipeName": "Nori Hand Roll",
+      "oldImage": "Nori_Hand_Roll_99db44df.png",
+      "newImage": "/attached_assets/generated_images/Avocado_topped_cucumber_rounds_be46df16.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "5a1f2e3d-4c5b-6a7e-8f9d-3a4b5c6d7e8f",
+      "recipeName": "Nutmeg Spice Cookies",
+      "oldImage": "Nutmeg_Spice_Cookies_214bf29d.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "fec2f120-7bd1-48c3-9e1a-173a60485750",
+      "recipeName": "Omega-3 Rich Seed Mix",
+      "oldImage": "Omega-3_Rich_Seed_Mix_63ac2ca7.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "0d8ff85f-f464-49c8-a075-2b8571bfd0a5",
+      "recipeName": "Peruvian Ceviche Bowl",
+      "oldImage": "Peruvian_Ceviche_Bowl_80696061.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "0cf1ea81-14be-4283-a6e9-0568b1e7200e",
+      "recipeName": "Plain Almond Flour Cookies",
+      "oldImage": "Plain_Almond_Flour_Cookies_c46d1602.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "0653ff0f-f60c-421d-8e03-4afa98941abb",
+      "recipeName": "Planetary Health Plate",
+      "oldImage": "Planetary_Health_Plate_457dfbdb.png",
+      "newImage": "/attached_assets/generated_images/Maitake_mushroom_beta_glucan_soup_e5fb2419.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "8ac0ae72-e02f-41c7-90e7-cbd86d74116d",
+      "recipeName": "Present Moment Snack",
+      "oldImage": "Present_Moment_Snack_7c4d4cce.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "49d09623-4ae9-47de-b045-266970a5dc02",
+      "recipeName": "Protein Harvest Bowl",
+      "oldImage": "Protein_Harvest_Bowl_46178dd6.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "535ce3ba-ea66-449e-b7a8-d8173f2833c2",
+      "recipeName": "Spinach White Bean Soup",
+      "oldImage": "Classic_spinach_white_bean_soup_a96b7a31.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "9878b3c7-f280-4e4f-97b7-f6e966561794",
+      "recipeName": "Coconut-flour crust with pesto & mushrooms",
+      "oldImage": "Coconut-flour_gooey_pesto_pizza_1f652d0a.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "9d0fe3ee-c1fa-4e8e-8168-93221e34a221",
+      "recipeName": "Cordyceps Energy Drink",
+      "oldImage": "Cordyceps_Energy_Drink_db36d492.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "699e5f83-af86-43a3-86ca-1c279d1b1fb9",
+      "recipeName": "Skin Health Glow Meal",
+      "oldImage": "Skin_health_glow_meal_bec95ae7.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "2d8ae129-f8ac-4c82-b52d-c4ee2903b30d",
+      "recipeName": "Classic Beef Burger",
+      "oldImage": "Classic_beef_burger_2438e95d.png",
+      "newImage": "/attached_assets/generated_images/Beef_broccoli_stir-fry_bowl_de7b3899.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "2466487b-a54e-4630-a4f9-14bacb78c973",
+      "recipeName": "Dragon Fruit Bowl",
+      "oldImage": "Tropical_paradise_fruit_bowl_50c59de1.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "db9964b6-43eb-44af-9899-30d1bb470782",
+      "recipeName": "Spinach White Bean Soup Classic",
+      "oldImage": "Spinach_white_bean_soup_75213e4d.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 17%"
+    },
+    {
+      "id": "44197ad9-ac58-4cde-bbc4-8037b7b4563e",
+      "recipeName": "Cauliflower Baked Fries",
+      "oldImage": "Cauliflower_baked_fries_fc85e383.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_baked_fries_fc85e383.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "d415f727-e7d6-4ec4-984c-6237e389225d",
+      "recipeName": "Cucumber Celery Green Juice",
+      "oldImage": "Cucumber_celery_green_juice_4fdd308f.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 17%"
+    },
+    {
+      "id": "3b74234f-57eb-473d-954a-11a62bbc4491",
+      "recipeName": "Chamomile Ginger Herbal Tea",
+      "oldImage": "Chamomile_ginger_herbal_tea_4e864d58.png",
+      "newImage": "/attached_assets/generated_images/Chamomile_ginger_herbal_tea_4e864d58.png",
+      "reason": "RECOMMENDED: "
+    },
+    {
+      "id": "8356ec3e-11cd-4129-94cc-357293e291e0",
+      "recipeName": "BDNF Brain Snack",
+      "oldImage": "BDNF_brain_boosting_snack_0c882edd.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_Chip_Almond_Cookies_7715798b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "ff448179-38d0-4054-81ef-faacb0a32026",
+      "recipeName": "Green Breakfast Smoothie",
+      "oldImage": "Green_breakfast_smoothie_healthy_6d324927.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "ec5df9df-c892-4f11-8bf1-90c0079b467d",
+      "recipeName": "Unsweetened Green Tea",
+      "oldImage": "Green_tea_smoothie_antioxidant_c5e0ef73.png",
+      "newImage": "/attached_assets/generated_images/Unsweetened_green_tea_cup_da4957d3.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 14%"
+    },
+    {
+      "id": "3b2ffb03-9c5a-447a-9eef-f743689abb14",
+      "recipeName": "Vanilla Berry Nice Cream",
+      "oldImage": "Vanilla_berry_nice_cream_bowl_ae64c510.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_avocado_mousse_a673703e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "eeab4947-b503-45e3-ada4-407b99267c37",
+      "recipeName": "Mint Chocolate Chip Nice Cream",
+      "oldImage": "Mint_chocolate_chip_nice_cream_1de86b5e.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_avocado_mousse_a673703e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert"
+    },
+    {
+      "id": "68d8a9cf-a5d1-4677-b07f-72123b81a928",
+      "recipeName": "Avocado Nice Cream",
+      "oldImage": "Avocado_nice_cream_dessert_6f095ec8.png",
+      "newImage": "/attached_assets/generated_images/Chocolate_avocado_mousse_a673703e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dessert; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "13dcc303-7218-4b16-af34-eb8fcb9706a7",
+      "recipeName": "Berry Chia Mousse",
+      "oldImage": "Berry_chia_mousse_glass_b3bb788f.png",
+      "newImage": "/attached_assets/generated_images/Berry_chia_mousse_glass_b3bb788f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 12%"
+    },
+    {
+      "id": "79324822-9fd6-4080-aeed-31555957e3bd",
+      "recipeName": "Lemon Ricotta Mousse",
+      "oldImage": "Lemon_ricotta_mousse_citrus_289557f7.png",
+      "newImage": "/attached_assets/generated_images/Lemon_ricotta_mousse_citrus_289557f7.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 17%"
+    },
+    {
+      "id": "7b674fd0-c129-400b-82bf-f573e5b1278a",
+      "recipeName": "Peanut Butter Chocolate Mousse",
+      "oldImage": "Peanut_butter_chocolate_mousse_de2d67e9.png",
+      "newImage": "/attached_assets/generated_images/Peanut_butter_chocolate_mousse_de2d67e9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 18%"
+    },
+    {
+      "id": "17d4d8d3-ad9f-48a4-a4c9-bcdabf251f8d",
+      "recipeName": "Coconut Vanilla Mousse",
+      "oldImage": "Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "newImage": "/attached_assets/generated_images/Coconut_vanilla_mousse_elegant_0ae04629.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 16%"
+    },
+    {
+      "id": "da02b963-b1f6-46dd-91a9-68ad220cfa3d",
+      "recipeName": "Almond Flour Flatbread",
+      "oldImage": "Almond_flour_flatbread_golden_26b6e0bc.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 18%"
+    },
+    {
+      "id": "8a43d901-0b10-42bb-94f0-e7821f271f5f",
+      "recipeName": "Cauliflower Rice Stir-Fry",
+      "oldImage": "Cauliflower_rice_vegetable_stir-fry_225702e5.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_pesto_mushroom_pizza_2bd1ef37.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "1f119883-03e7-463e-9e13-3695c3675c75",
+      "recipeName": "Cauliflower Leek Soup",
+      "oldImage": "Cauliflower_leek_soup_creamy_bd15da6a.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_leek_soup_creamy_bd15da6a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: soup; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "8b1ecfda-0b3b-409c-afa1-6c62db6b9589",
+      "recipeName": "Curried Chicken with Rice and Dal",
+      "oldImage": "curry chicken with dahl image_1757725725660.jpeg",
+      "newImage": "/attached_assets/generated_images/Thai_coconut_curry_chicken_vegetables_01c31b7a.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "bcca4897-235e-4084-ba31-dcdf875befca",
+      "recipeName": "Cauliflower Rice Bowl",
+      "oldImage": "Colorful_cauliflower_rice_vegetable_bowl_dcfada4c.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "793f7c9a-68ac-4a23-8ea2-7dce0977fd9b",
+      "recipeName": "Avocado on Cucumber Rounds",
+      "oldImage": "Avocado_topped_cucumber_rounds_be46df16.png",
+      "newImage": "/attached_assets/generated_images/Avocado_topped_cucumber_rounds_be46df16.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "3fea45ff-c7ce-4fa8-b7d5-3ad32747e4f4",
+      "recipeName": "Coconut-flour crust with shredded chicken & veggies",
+      "oldImage": "Coconut-flour_gooey_chicken_pizza_0173bf35.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "69fa52eb-745b-4d67-920a-16da1cb5e945",
+      "recipeName": "Flaxseed & almond crust with herb-roasted chicken",
+      "oldImage": "Flaxseed_almond_gooey_herb_chicken_d502c134.png",
+      "newImage": "/attached_assets/generated_images/Flaxseed_almond_gooey_herb_chicken_d502c134.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 16%"
+    },
+    {
+      "id": "647028ea-89c8-4978-a6c3-1601655ae5d5",
+      "recipeName": "Eggplant mini pizzas",
+      "oldImage": "Eggplant_gooey_mini_pizzas_da6e74c9.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "13a1b589-d1c4-4299-81e7-17ec0b80ae12",
+      "recipeName": "Zucchini-psyllium crust with spicy chicken",
+      "oldImage": "Zucchini_spicy_chicken_melted_cheese_00edf0db.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "09c9d5da-b691-41c0-80d3-7b496d161a4e",
+      "recipeName": "Eggplant rounds with lean beef & tomatoes",
+      "oldImage": "Eggplant_gooey_beef_pizzas_935bfa6f.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "13777e4c-9c73-4d20-a4a6-658c8d0688a3",
+      "recipeName": "Testosterone Support Meal",
+      "oldImage": "Testosterone_supporting_hormone_meal_677a1bdb.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "3b8a6ac4-90c2-4477-a080-1f57ae14f11c",
+      "recipeName": "Stress Busting Lunch",
+      "oldImage": "Stress_busting_calming_lunch_091802bd.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "03654630-1593-4da1-8fd2-93c5a2cf47ec",
+      "recipeName": "Broccoli-flax crust pizza",
+      "oldImage": "Broccoli-flax_gooey_cheese_pizza_97a10469.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: pizza; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "4e2abde8-5461-488f-a103-aa166c88429a",
+      "recipeName": "Senescent Cell Clearance",
+      "oldImage": "Senescent_cell_clearance_healthy_21748226.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "81586ca9-9f69-4405-aff3-7e6729e76531",
+      "recipeName": "Spirulina Power Bowl",
+      "oldImage": "Spirulina_power_bowl_green_96f020fa.png",
+      "newImage": "/attached_assets/generated_images/Avocado_toast_breakfast_35518048.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "ab18a23a-181a-493a-8947-56a546a5acc3",
+      "recipeName": "Apple Slices with Almond Butter",
+      "oldImage": "Clean_apple_slices_with_almond_butter_820be0c2.png",
+      "newImage": "/attached_assets/generated_images/Apple_slices_with_almond_butter_117626bc.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack"
+    },
+    {
+      "id": "69493844-b4aa-4fea-a838-2636914d85ad",
+      "recipeName": "Berry Parfait",
+      "oldImage": "Greek_yogurt_parfait_56690c6c.png",
+      "newImage": "/attached_assets/generated_images/Mint_chocolate_almond_cookies_cadf8761.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "3cb979d9-42e5-420b-aa32-6481e29b9864",
+      "recipeName": "Venison Medallions",
+      "oldImage": "Venison_medallions_berry_reduction_elegant_18333209.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "b1598d73-9793-41df-877e-240b3d5643f2",
+      "recipeName": "Indian Butter Chicken",
+      "oldImage": "Jamaican_curry_chicken_authentic_5b9c6eca.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "b5452e8c-4164-4d8f-a6d5-4ab15fb5bda3",
+      "recipeName": "Tuna Salad Lettuce Wraps",
+      "oldImage": "Tuna_salad_lettuce_wraps_healthy_c1c26611.png",
+      "newImage": "/attached_assets/generated_images/Tuna_salad_lettuce_wraps_healthy_c1c26611.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 10%"
+    },
+    {
+      "id": "69394de8-63b2-4224-91c5-ccedfd3e4ffc",
+      "recipeName": "Salmon Poke Bowl",
+      "oldImage": "Simple_salmon_poke_bowl_3eb402cc.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 12%"
+    },
+    {
+      "id": "79119bfb-2926-4efa-9538-a649fc6914e2",
+      "recipeName": "Asian Chicken Salad",
+      "oldImage": "Grilled_chicken_caesar_salad_8ca90218.png",
+      "newImage": "/attached_assets/generated_images/Fresh_Asian_chicken_salad_9dcbe7dd.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 11%"
+    },
+    {
+      "id": "dbeb170c-445a-43d3-aae4-2748271f21f4",
+      "recipeName": "Breakfast Grain Bowl with Egg",
+      "oldImage": "Breakfast_grain_bowl_de33f2ad.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "0d251c50-6632-4fc9-8393-e2d319a0ffa9",
+      "recipeName": "Smoothie Popsicles",
+      "oldImage": "Smoothie_popsicles_healthy_frozen_5355bb65.png",
+      "newImage": "/attached_assets/generated_images/Berry_coconut_ice_cream_8f39171a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "df496b31-cf66-4492-b92f-c764fc6cbd0a",
+      "recipeName": "Breakfast Grain Salad",
+      "oldImage": "Breakfast_grain_salad_fresh_colorful_a5d2ead4.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "212c5d17-f272-4103-8432-8e4eee0959d9",
+      "recipeName": "Protein Pancakes",
+      "oldImage": "Protein_pancakes_breakfast_b12a4780.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "65f88cce-5b28-41b2-8020-339df0fda347",
+      "recipeName": "Solar Flare Breakfast",
+      "oldImage": "Solar_flare_energizing_breakfast_076624d0.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "3c1c28a8-dfc9-4810-9fbe-813c88e1236d",
+      "recipeName": "Scrambled Eggs with Vegetables",
+      "oldImage": "Scrambled_eggs_vegetables_519455d3.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "25db8c12-b6ec-471e-ac37-786a57e94f73",
+      "recipeName": "Chia Seed Pudding",
+      "oldImage": "Chia_pudding_breakfast_d6c52927.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "57a395ce-a998-4db5-a121-1f56cfb535dc",
+      "recipeName": "Rainbow Salad Bowl",
+      "oldImage": "Vibrant_rainbow_salad_bowl_ab595548.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 8%"
+    },
+    {
+      "id": "9da77828-47a3-40b3-b684-5c1ede595084",
+      "recipeName": "Lentil Flatbread",
+      "oldImage": "Lentil_flatbread_avocado_breakfast_78250161.png",
+      "newImage": "/attached_assets/generated_images/Himalayan_breakfast_superfood_bowl_db8bf545.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "6c19e892-368b-47c9-8aba-17489d3b5f3f",
+      "recipeName": "Blueberry Protein Pancakes",
+      "oldImage": "Blueberry_protein_pancakes_fluffy_stack_6b65096d.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "fc23786e-450b-4dcd-aa57-67c3cc1d6519",
+      "recipeName": "Turkey and Hummus Wrap",
+      "oldImage": "Turkey_hummus_wrap_healthy_meal_f34aa16e.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "53038eae-076e-4804-93ac-75d08b6c7879",
+      "recipeName": "Salmon and Avocado Salad",
+      "oldImage": "Salmon_and_avocado_salad_24d1b3c9.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 16%"
+    },
+    {
+      "id": "dad6b995-8e4d-4f17-b24a-927813dc36ea",
+      "recipeName": "Chicken and Avocado Salad",
+      "oldImage": "Salmon_and_avocado_salad_24d1b3c9.png",
+      "newImage": "/attached_assets/generated_images/Fresh_Asian_chicken_salad_9dcbe7dd.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "929b779d-a504-4f4b-ab12-d1bd9a1a47c3",
+      "recipeName": "Teff Breakfast Porridge",
+      "oldImage": "Teff_breakfast_porridge_ancient_grain_8b53d334.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 17%"
+    },
+    {
+      "id": "7b3c39c7-beb0-44c5-b95c-f3cd55284b96",
+      "recipeName": "Baked Kale and Black Bean Medley",
+      "oldImage": "Crispy_baked_kale_chips_f2aaf6ab.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "e772ecfd-50a4-4d3a-860e-ffc39401e068",
+      "recipeName": "Mexican Black Bean Bowls",
+      "oldImage": "Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 13%"
+    },
+    {
+      "id": "0918b739-a2b9-4045-9dc6-a1bfea282e3d",
+      "recipeName": "Mexican Stuffed Peppers",
+      "oldImage": "Stuffed_bell_peppers_healthy_372e6bdf.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "3a326630-97b0-404d-89cb-2d1a683d8138",
+      "recipeName": "Soil Building Lunch",
+      "oldImage": "Soil_building_organic_lunch_390049c9.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "a711831a-c218-4e02-843b-8bd113ef39fa",
+      "recipeName": "Soup and Salad Combo",
+      "oldImage": "Soup_and_salad_combo_meal_b4bf5903.png",
+      "newImage": "/attached_assets/generated_images/Classic_spinach_white_bean_soup_a96b7a31.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "f3a008a7-3fc3-4b35-a34e-e3e3b4a8b326",
+      "recipeName": "Vegetable Smoothie",
+      "oldImage": "Vegetable_smoothie_green_healthy_drink_49e2e131.png",
+      "newImage": "/attached_assets/generated_images/Green_smoothie_spinach_apple_ginger_baa06bde.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "d2fb2e71-e059-48f6-abaf-0a5527a0591f",
+      "recipeName": "Stem Cell Breakfast",
+      "oldImage": "Stem_cell_regenerative_breakfast_f9c470dc.png",
+      "newImage": "/attached_assets/generated_images/Cacao_breakfast_bowl_healthy_5f9a51e5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "b6dd13c2-5ea2-41cb-b176-57dd2313eb83",
+      "recipeName": "Cauliflower Breakfast Hash",
+      "oldImage": "Cauliflower_breakfast_scramble_healthy_34f5e7d2.png",
+      "newImage": "/attached_assets/generated_images/Modern_cauliflower_soup_black_bowl_b13e38af.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "01be36cb-e4eb-4803-bbd0-b2af822a7f90",
+      "recipeName": "Vietnamese Spring Rolls",
+      "oldImage": "Fresh_Vietnamese_spring_rolls_translucent_581a1b42.png",
+      "newImage": "/attached_assets/generated_images/Fresh_spring_rolls_lettuce_wraps_2093e2c0.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "4e641e9f-f61c-470f-9f87-9199cd69e058",
+      "recipeName": "Turkey Meatballs with Sauce",
+      "oldImage": "Turkey_meatballs_marinara_sauce_italian_0b2b4796.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 12%"
+    },
+    {
+      "id": "37956a43-4d25-429a-8723-b8dc076d9c02",
+      "recipeName": "Seafood Paella",
+      "oldImage": "Seafood_paella_with_saffron_4bd6f474.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "239136d6-5c0a-45f8-9cd0-78006ca37d57",
+      "recipeName": "Stuffed Zucchini Boats",
+      "oldImage": "Stuffed_zucchini_boats_healthy_09608203.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "d0e7650c-c52a-4d5c-a775-8bf4ad8caaae",
+      "recipeName": "Smoothie Bowl with Granola",
+      "oldImage": "Smoothie_bowl_with_granola_f73aa4d0.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 9%"
+    },
+    {
+      "id": "5096a5db-5f49-493c-b0b1-66eb4c3384b3",
+      "recipeName": "Stuffed Avocado",
+      "oldImage": "Stuffed_avocado_with_filling_6c6c84e9.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "00054171-4e87-41a6-9704-0e11483a1956",
+      "recipeName": "Stuffed Chicken Breast",
+      "oldImage": "Stuffed_chicken_breast_simple_81092fb7.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "d21334a5-412d-4ff4-83c9-65210ca7b7ce",
+      "recipeName": "Sirtuins Snack Mix",
+      "oldImage": "Sirtuins_snack_mix_healthy_1219ac01.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "5e2eae5d-7109-4bae-9bfb-9cb6aa9eb713",
+      "recipeName": "Almond Energy Bites",
+      "oldImage": "Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack"
+    },
+    {
+      "id": "dbbccdfc-b6af-498b-816c-7b599e970857",
+      "recipeName": "Vegetable Chips",
+      "oldImage": "Crispy_baked_kale_chips_f2aaf6ab.png",
+      "newImage": "/attached_assets/generated_images/Crispy_baked_kale_chips_f2aaf6ab.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 17%"
+    },
+    {
+      "id": "d929ae47-654c-4877-83af-851a2d701fd1",
+      "recipeName": "Vegetarian Chili",
+      "oldImage": "Hearty_vegetarian_bean_chili_f79add3e.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "6c84a729-5cca-4892-aa60-d66754766cec",
+      "recipeName": "Volcanic Mineral Snack",
+      "oldImage": "Mineral_rich_seaweed_snack_556a8338.png",
+      "newImage": "/attached_assets/generated_images/Berry_coconut_ice_cream_8f39171a.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "5e0b2a3b-d078-41db-a268-56898a9f66d9",
+      "recipeName": "Thai Pad See Ew",
+      "oldImage": "Thai_Pad_See_Ew_noodles_3f724c42.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 6%"
+    },
+    {
+      "id": "a8172927-e17d-4e51-939f-bb34b663adec",
+      "recipeName": "Wisdom of Ages Dinner",
+      "oldImage": "Ancient_wisdom_vegetarian_dinner_bowl_9d8a3897.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "45c8b1f1-d8d0-4628-86d0-010064922894",
+      "recipeName": "Wagyu Beef Tenderloin",
+      "oldImage": "Argentinian_chimichurri_beef_plate_0029793b.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "b3030dee-02ce-4c12-a8ce-717298dc823b",
+      "recipeName": "Zucchini Chips",
+      "oldImage": "Crispy_baked_zucchini_chips_herbs_b77b84ed.png",
+      "newImage": "/attached_assets/generated_images/Infinity_energy_snack_balls_cc831b24.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "fc06dd75-54d7-453f-ad8b-aac6685b43ad",
+      "recipeName": "Veggie Burger Bowl",
+      "oldImage": "Buddha_bowl_low_glycemic_1fa48aab.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 3%"
+    },
+    {
+      "id": "b7c32a57-8f57-4587-abe9-eb098f4ad649",
+      "recipeName": "Thai Beef Salad",
+      "oldImage": "Thai_beef_salad_fresh_healthy_7bd677a7.png",
+      "newImage": "/attached_assets/generated_images/Thai_beef_salad_fresh_healthy_7bd677a7.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 10%"
+    },
+    {
+      "id": "e1d669ac-9e41-40fa-a452-cddff84ac6ff",
+      "recipeName": "Avocado Toast on Ezekiel Bread",
+      "oldImage": "Avocado_toast_breakfast_35518048.png",
+      "newImage": "/attached_assets/generated_images/Avocado_toast_breakfast_35518048.png",
+      "reason": "RECOMMENDED: "
+    },
+    {
+      "id": "c84c4ea1-52e0-4e79-a0ba-767654d017c4",
+      "recipeName": "Vegetable Frittata",
+      "oldImage": "Vegetable_frittata_breakfast_f3f90c78.png",
+      "newImage": "/attached_assets/generated_images/Chickpea_root_vegetable_bowl_2586ff11.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "a827671d-1b52-4427-bc3a-ee9ae920f4ef",
+      "recipeName": "Harvest Abundance Bowl",
+      "oldImage": "Protein_Harvest_Bowl_46178dd6.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 6%"
+    },
+    {
+      "id": "5bb94218-04fc-4b91-9061-b7e96e178959",
+      "recipeName": "String Theory Snack",
+      "oldImage": "String_theory_geometric_snack_eabb1a38.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "ecb78383-c72a-4da2-ab59-e17c6565c3d2",
+      "recipeName": "Stress Hormone Reset",
+      "oldImage": "Stress_hormone_reset_adaptogenic_4feee609.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_spinach_pizza_0df5441b.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 7%"
+    },
+    {
+      "id": "a0b0557f-53b5-46a0-8851-54bd52d9d841",
+      "recipeName": "Greek Yogurt Parfait",
+      "oldImage": "Greek_yogurt_parfait_56690c6c.png",
+      "newImage": "/attached_assets/generated_images/Greek_yogurt_berry_parfait_e282c845.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 13%"
+    },
+    {
+      "id": "527654d4-51eb-45c0-9531-016011ca1e82",
+      "recipeName": "Turmeric Golden Milk",
+      "oldImage": "Turmeric_golden_milk_anti-inflammatory_drink_527f122d.png",
+      "newImage": "/attached_assets/generated_images/Brazilian_moqueca_fish_coconut_milk_spices_1d6b8a4f.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "66429eda-901b-45bf-9d14-78e117ad6bfa",
+      "recipeName": "Breakfast Amaranth",
+      "oldImage": "Breakfast_amaranth_porridge_healthy_bowl_15170225.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "8c303cca-f3a2-47a3-bc6f-5144b7fdf11a",
+      "recipeName": "Trail Mix",
+      "oldImage": "Homemade_trail_mix_healthy_snack_c00e053e.png",
+      "newImage": "/attached_assets/generated_images/Almond_energy_bites_dates_coconut_no_sugar_2f8a5c3d.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: snack; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "cba4d3e8-9a13-4fb7-b004-9162184a152c",
+      "recipeName": "Tropical Paradise Bowl",
+      "oldImage": "Tropical_paradise_fruit_bowl_50c59de1.png",
+      "newImage": "/attached_assets/generated_images/Mixed_nuts_and_seeds_bowl_269fbabf.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 11%"
+    },
+    {
+      "id": "20bed56d-8212-4259-9176-a665ce931cae",
+      "recipeName": "Grain Porridge",
+      "oldImage": "Breakfast_grain_porridge_creamy_comfort_5eb7ff20.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 8%"
+    },
+    {
+      "id": "057dbb9d-1d74-4220-b914-51e80607a10b",
+      "recipeName": "Breakfast Parfait",
+      "oldImage": "Breakfast_parfait_layered_8dc8f612.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 4%"
+    },
+    {
+      "id": "ef3fc619-2e31-4294-8222-b1b2b26f7b1c",
+      "recipeName": "Metabolic Flexibility Bowl",
+      "oldImage": "Colorful_biodiversity_vegetable_bowl_9a90ffd1.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 2%"
+    },
+    {
+      "id": "14ba7e3e-e4a9-4354-8356-6ae77f76a153",
+      "recipeName": "BBQ Ribs",
+      "oldImage": "BBQ_ribs_sugar_free_sauce_low_carb_sides_7b2e9a5f.png",
+      "newImage": "/attached_assets/generated_images/Broccoli-flax_beef_pizza_d5cca917.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 11%"
+    },
+    {
+      "id": "ad06276f-b201-4841-9d80-90d5a97f8649",
+      "recipeName": "Breakfast Quinoa Salad",
+      "oldImage": "Breakfast_quinoa_salad_acc7a568.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "9739c68e-81f6-46ca-86cc-50bbce4c0979",
+      "recipeName": "Superfood Salad Mix",
+      "oldImage": "Superfood_salad_mix_colorful_vegetables_f7598785.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_quinoa_bowl_superfood_healthy_67dc6d4e.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 7%"
+    },
+    {
+      "id": "53b5cd6c-9a05-43d8-b1a5-794d2f5d28f2",
+      "recipeName": "Sacred Spiral Dinner",
+      "oldImage": "Sacred_spiral_dinner_arrangement_708943fe.png",
+      "newImage": "/attached_assets/generated_images/Eggplant_beef_tomato_pizzas_680b923e.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 9%"
+    },
+    {
+      "id": "625e0fee-1d54-4433-9e73-b463b4f3d170",
+      "recipeName": "Breakfast Quinoa Pudding",
+      "oldImage": "Breakfast_quinoa_pudding_creamy_healthy_c3680487.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: breakfast; Low ingredient overlap: 14%"
+    },
+    {
+      "id": "488c6a2f-76bb-444b-a0f9-c815596923eb",
+      "recipeName": "Power Salad",
+      "oldImage": "Plant-based_power_salad_superfood_58c1a949.png",
+      "newImage": "/attached_assets/generated_images/Salmon_and_avocado_salad_24d1b3c9.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 5%"
+    },
+    {
+      "id": "6a90f29e-35a0-4666-a396-8c79fa98f63d",
+      "recipeName": "Time Dilation Lunch",
+      "oldImage": "Cauliflower_rice_stir_fry_833778aa.png",
+      "newImage": "/attached_assets/generated_images/Cauliflower_rice_bowl_healthy_bbeb761f.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: lunch; Low ingredient overlap: 10%"
+    },
+    {
+      "id": "8cf09556-8205-4de8-8e22-158d27b9cd54",
+      "recipeName": "Unity Consciousness Bowl",
+      "oldImage": "Unity_consciousness_bowl_spiritual_breakfast_81343075.png",
+      "newImage": "/attached_assets/generated_images/Breakfast_Quinoa_Bowl_1758003407366.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 12%"
+    },
+    {
+      "id": "d533b54e-83d4-4815-8916-ba01e64bb24c",
+      "recipeName": "Telomere Supporting Morning",
+      "oldImage": "Telomere_supporting_morning_breakfast_bowl_3e2bb962.png",
+      "newImage": "/attached_assets/generated_images/Almond_butter_toast_healthy_breakfast_ca498258.png",
+      "reason": "RECOMMENDED: Low ingredient overlap: 10%"
+    },
+    {
+      "id": "acc96b7b-4a11-436f-8fc0-0dbf1144de77",
+      "recipeName": "Brazilian Moqueca",
+      "oldImage": "Brazilian_moqueca_fish_coconut_milk_spices_1d6b8a4f.png",
+      "newImage": "/attached_assets/generated_images/Coconut-flour_chicken_veggie_pizza_773761a5.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 15%"
+    },
+    {
+      "id": "2d9cb543-a162-4b67-b280-c40f2152737e",
+      "recipeName": "Chicken Enchiladas",
+      "oldImage": "Chicken_Enchiladas_1758003424205.png",
+      "newImage": "/attached_assets/generated_images/Almond-oat_chicken_pizza_melted_cheese_02c623e1.png",
+      "reason": "RECOMMENDED: Image doesn't match meal category: dinner; Low ingredient overlap: 10%"
+    }
+  ],
+  "failures": []
+}

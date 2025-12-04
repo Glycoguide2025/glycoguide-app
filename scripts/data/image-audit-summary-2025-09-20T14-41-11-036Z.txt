@@ -1,0 +1,30 @@
+🔍 RECIPE IMAGE AUDIT REPORT
+Generated: 2025-09-20T14:41:11.036Z
+
+📊 SUMMARY:
+• Total Recipes: 573
+• ❌ Critical Issues: 0
+• ⚠️  Recommended Fixes: 569
+• ✅ OK Recipes: 0
+
+⚠️  TOP RECOMMENDED FIXES:
+• Indian Vegetable Biryani (Score: -10)
+  → Suggested: Coconut-flour_chicken_veggie_pizza_773761a5.png
+• Black Hole Density Dinner (Score: -10)
+  → Suggested: Almond-oat_chicken_spinach_pizza_0df5441b.png
+• Acai Bowl Power (Score: -10)
+  → Suggested: Purple_acai_power_bowl_015c1d40.png
+• French Provincial Feast (Score: -10)
+  → Suggested: Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png
+• Black Bean and Millet Bowl (Score: -10)
+  → Suggested: Salmon_and_avocado_salad_24d1b3c9.png
+• Chinese Sweet and Sour (Score: -10)
+  → Suggested: Eggplant_beef_tomato_pizzas_680b923e.png
+• Cuban Black Bean Bowl (Score: -10)
+  → Suggested: Colorful_cauliflower_rice_vegetable_bowl_dcfada4c.png
+• Cauliflower Grits (Score: -10)
+  → Suggested: Modern_cauliflower_soup_black_bowl_b13e38af.png
+• Italian Traditional Table (Score: -10)
+  → Suggested: Almond-oat_chicken_spinach_pizza_0df5441b.png
+• Lebanese Kibbeh (Score: -10)
+  → Suggested: Cauliflower-flax_BBQ_chicken_pizza_15038f7a.png

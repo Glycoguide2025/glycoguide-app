@@ -1,0 +1,857 @@
+{
+  "timestamp": "2025-09-15T09:23:00.013Z",
+  "totalRecipes": 22,
+  "passedRecipes": 22,
+  "failedRecipes": 0,
+  "summary": {
+    "pizzas": {
+      "total": 14,
+      "passed": 14,
+      "failed": 0
+    },
+    "beverages": {
+      "total": 8,
+      "passed": 8,
+      "failed": 0
+    }
+  },
+  "auditResults": [
+    {
+      "id": "a6b77e91-fd7a-401e-b92a-f4242b0f5712",
+      "name": "Almond-oat crust with grilled chicken & spinach",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 4 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 17, Temp/time details: 3 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Almond-oat_gooey_chicken_spinach_pizza_8e3a8d7d.png"
+        }
+      ]
+    },
+    {
+      "id": "19eecec6-c511-4530-ab3d-e8d477b0c42b",
+      "name": "Almond-oat thin crust with rainbow veggies",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 2 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 14, Temp/time details: 2 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Almond-oat_rainbow_veggie_gooey_pizza_9a5d7a1d.png"
+        }
+      ]
+    },
+    {
+      "id": "03654630-1593-4da1-8fd2-93c5a2cf47ec",
+      "name": "Broccoli-flax crust pizza",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 3 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 14, Temp/time details: 3 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Broccoli-flax_gooey_cheese_pizza_97a10469.png"
+        }
+      ]
+    },
+    {
+      "id": "ef1aa32d-a0be-4a24-841d-d0b3eee8024f",
+      "name": "Broccoli-flax crust with extra-lean ground beef",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 4 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 19, Temp/time details: 4 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Broccoli-flax_gooey_beef_pizza_8f7faa35.png"
+        }
+      ]
+    },
+    {
+      "id": "cae09950-c423-45cf-8ee8-57e5cba4a34f",
+      "name": "Cauliflower-flax crust with BBQ chicken",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 4 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 14, Temp/time details: 3 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Cauliflower-flax_gooey_BBQ_chicken_52e6384b.png"
+        }
+      ]
+    },
+    {
+      "id": "20119874-a117-443d-97b5-a1b8cfa7a108",
+      "name": "Cauliflower-flax crust with roasted veggies",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 2 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 13, Temp/time details: 4 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Cauliflower-flax_gooey_veggie_pizza_780010e9.png"
+        }
+      ]
+    },
+    {
+      "id": "9878b3c7-f280-4e4f-97b7-f6e966561794",
+      "name": "Coconut-flour crust with pesto & mushrooms",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 3 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 16, Temp/time details: 4 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Coconut-flour_gooey_pesto_pizza_1f652d0a.png"
+        }
+      ]
+    },
+    {
+      "id": "3fea45ff-c7ce-4fa8-b7d5-3ad32747e4f4",
+      "name": "Coconut-flour crust with shredded chicken & veggies",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 4 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 17, Temp/time details: 4 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Coconut-flour_gooey_chicken_pizza_0173bf35.png"
+        }
+      ]
+    },
+    {
+      "id": "647028ea-89c8-4978-a6c3-1601655ae5d5",
+      "name": "Eggplant mini pizzas",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 3 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 14, Temp/time details: 3 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Eggplant_gooey_mini_pizzas_da6e74c9.png"
+        }
+      ]
+    },
+    {
+      "id": "09c9d5da-b691-41c0-80d3-7b496d161a4e",
+      "name": "Eggplant rounds with lean beef & tomatoes",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "No bullet points found"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 19, Temp/time details: 4 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Eggplant_gooey_beef_pizzas_935bfa6f.png"
+        }
+      ]
+    },
+    {
+      "id": "85111fc7-b977-46f0-8332-406bf7877297",
+      "name": "Flaxseed & almond crust pizza",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "No bullet points found"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 14, Temp/time details: 2 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Flaxseed_almond_gooey_pizza_31f44ccb.png"
+        }
+      ]
+    },
+    {
+      "id": "69fa52eb-745b-4d67-920a-16da1cb5e945",
+      "name": "Flaxseed & almond crust with herb-roasted chicken",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "No bullet points found"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 19, Temp/time details: 2 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Flaxseed_almond_gooey_herb_chicken_d502c134.png"
+        }
+      ]
+    },
+    {
+      "id": "f3c44ecb-4e2a-4288-9b1a-2dc175c54cff",
+      "name": "Zucchini-psyllium crust pizza",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 2 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 12, Temp/time details: 2 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Zucchini_spiral_noodle_pasta_a7246420.png"
+        }
+      ]
+    },
+    {
+      "id": "13a1b589-d1c4-4299-81e7-17ec0b80ae12",
+      "name": "Zucchini-psyllium crust with spicy chicken",
+      "category": "pizza",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "No bullet points found"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 16, Temp/time details: 4 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Zucchini_spicy_chicken_melted_cheese_00edf0db.png"
+        }
+      ]
+    },
+    {
+      "id": "f26a60fd-bf22-40d5-a989-bae48a89cb48",
+      "name": "Blackberry Mint Infused Water",
+      "category": "beverage",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 1 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 10, Temp/time details: 2 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Blackberry_mint_infused_water_9a7cfa3a.png"
+        }
+      ]
+    },
+    {
+      "id": "3b74234f-57eb-473d-954a-11a62bbc4491",
+      "name": "Chamomile Ginger Herbal Tea",
+      "category": "beverage",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 2 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 11, Temp/time details: 2 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Chamomile_ginger_herbal_tea_4e864d58.png"
+        }
+      ]
+    },
+    {
+      "id": "d415f727-e7d6-4ec4-984c-6237e389225d",
+      "name": "Cucumber Celery Green Juice",
+      "category": "beverage",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 4 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 10, Temp/time details: 3 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Cucumber_celery_green_juice_4fdd308f.png"
+        }
+      ]
+    },
+    {
+      "id": "93b076df-50a5-4279-b6c0-6520dabf006e",
+      "name": "Traditional Caribbean Sorrel Drink",
+      "category": "beverage",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 2 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 10, Temp/time details: 3 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Caribbean_sorrel_drink_glass_fb010e2c.png"
+        }
+      ]
+    },
+    {
+      "id": "c7db09d1-4c6b-48de-b06f-cfafa8055317",
+      "name": "Unsweetened Almond Milk",
+      "category": "beverage",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 1 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 10, Temp/time details: 4 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Unsweetened_almond_milk_glass_70f4c13b.png"
+        }
+      ]
+    },
+    {
+      "id": "5a0e3a23-c74b-407b-9d30-534e644df857",
+      "name": "Unsweetened Chicory Coffee",
+      "category": "beverage",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 2 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 6, Temp/time details: 2 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Unsweetened_chicory_coffee_mug_8c9e537f.png"
+        }
+      ]
+    },
+    {
+      "id": "ec5df9df-c892-4f11-8bf1-90c0079b467d",
+      "name": "Unsweetened Green Tea",
+      "category": "beverage",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "No bullet points found"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 6, Temp/time details: 2 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Unsweetened_green_tea_cup_da4957d3.png"
+        }
+      ]
+    },
+    {
+      "id": "d1c15117-de1c-4b06-a3fa-227eb3c0b049",
+      "name": "Watermelon Basil Sparkling Water",
+      "category": "beverage",
+      "overallPassed": true,
+      "checks": [
+        {
+          "name": "No Emojis",
+          "passed": true,
+          "details": "No emojis found"
+        },
+        {
+          "name": "Professional Headers",
+          "passed": true,
+          "details": "No marketing phrases found"
+        },
+        {
+          "name": "Benefits ≤4 Bullets",
+          "passed": true,
+          "details": "Found 1 bullets, within limit"
+        },
+        {
+          "name": "Medical Disclaimer",
+          "passed": true,
+          "details": "Found disclaimer keywords: consult, medical advice"
+        },
+        {
+          "name": "Numbered Instructions with Temps/Times",
+          "passed": true,
+          "details": "Numbered steps: 10, Temp/time details: 4 patterns found. "
+        },
+        {
+          "name": "Valid Image Paths",
+          "passed": true,
+          "details": "Image file exists at attached_assets/generated_images/Watermelon_basil_sparkling_water_5d568150.png"
+        }
+      ]
+    }
+  ],
+  "detailedFailures": []
+}

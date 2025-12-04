@@ -1,0 +1,43 @@
+{
+  "locked_recipes": {
+    "718e6c3a-2e24-49a3-9648-d2f74340aa36": "User fixed - Argentinian Empanadas (ingredient/instruction consistency)",
+    "d8f24a99-058c-4195-a52f-dc9f38925f64": "User reported - Activated Charcoal Smoothie (fixed duplicate)",
+    "99a47e37-e870-4cde-9ab0-57a6982a57ab": "User reported - Adaptogen Energy Bites (fixed duplicate)",
+    "27d99221-5658-47a3-be79-92e31c4b19a1": "User reported - Adaptogenic Herbal Bites (fixed duplicate)",
+    "19eecec6-c511-4530-ab3d-e8d477b0c42b": "User reported - Almond-oat thin crust (fixed duplicate)",
+    "da02b963-b1f6-46dd-91a9-68ad220cfa3d": "User reported - Almond Flour Flatbread (wrong image fixed)",
+    "759deeab-804d-4fb5-b9b7-3690171b9004": "User reported - Ancestral Morning Feast (removed cucumber, now shows proper wild greens: dandelion, spinach, arugula)",
+    "b3f9e04f-f012-4aa1-bc6b-334fcc897465": "Auto-fixed - Fish Tacos (proper fish image)",
+    "c8eeccaf-3ec9-458f-b9ea-5c0a238e5a75": "Auto-fixed - Greek Moussaka (moussaka image)",
+    "888900f8-ac30-4cf3-8151-a91f38d43c49": "Auto-fixed - Moroccan Fish Tagine (proper tagine)",
+    "b6dd13c2-5ea2-41cb-b176-57dd2313eb83": "Auto-fixed - Cauliflower Breakfast Hash (breakfast hash)",
+    "33039336-8673-42c7-9832-9be06edb1270": "User reported AGAIN - Ancient Grain Medley showing fruits when recipe contains only savory ingredients (millet, nuts, seeds, herbs). Fixed to proper savory grain bowl image",
+    "d4246e5c-91cf-48ac-9ab2-12a86a0502da": "User reported - Andean Mountain Meal showing Argentinian steak with chimichurri sauce (image already used by other recipes). Fixed to colorful biodiversity vegetable bowl that matches quinoa, turnip, beef, spinach, avocado ingredients",
+    "9d8beef8-4baa-4989-bf9f-1e0f1cea4319": "User reported - Anti-Inflammatory Healing Bowl (removed cucumber, shows proper anti-inflammatory meal with turmeric/ginger)",
+    "ab18a23a-181a-493a-8947-56a546a5acc3": "User requested - Apple Slices with Almond Butter (changed to cleaner image with fewer slices)",
+    "469cf500-2a1a-4432-8015-4717bb04705f": "User reported - Antioxidant Berry Blend (changed from chia pudding to proper fresh berry blend)",
+    "077627fc-1175-48e4-81a0-fe30bef88c66": "User reported - Arctic Nutrition Bowl (removed avocado not in recipe, shows proper arctic superfood bowl)",
+    "79119bfb-2926-4efa-9538-a649fc6914e2": "User reported - Asian Chicken Salad (removed Caesar salad, now shows proper Asian vegetables: bok choy, napa cabbage, spinach, purple cabbage)",
+    "8b3ef444-4da8-424b-a579-f7d64cd2117f": "User reported AGAIN - AMPK Pathway Meal (removed test image, shows proper grain-free meal: wild salmon, broccoli, avocado, walnuts, blueberries)",
+    "cd37f25f-30b1-46f1-a847-f4a059f41386": "User requested - Updated Authentic Trinidad Callaloo to make crab optional and reworded for dietary flexibility",
+    "7b3c39c7-beb0-44c5-b95c-f3cd55284b96": "REAL FIX FINALLY - Root cause found: The generated_images/Detox_Cleanse_Salad file WAS the wrong vegetable platter! Fixed to use user uploaded image showing actual ingredients. Also fixed cache busting to use filename instead of meal.id",
+    "a5210b0c-987b-4244-9533-57b25687fc66": "User reported - Baked Salmon with Vegetables showing hummus image instead of salmon. Fixed to show proper grilled salmon with vegetables (broccoli, asparagus, bell peppers)",
+    "402c36c1-abf5-4dad-afa0-90e4f5836181": "User reported - Baobab Breakfast Mix description mentioned oats but no oats in ingredients. Fixed description to match actual ingredients (chia seeds, hemp hearts, flaxseed)",
+    "336acffb-a5f6-4503-a49e-2245a7e37cb3": "User reported - Beef Bourguignon description said \"root vegetables\" but recipe only contains 1 carrot. Fixed to specify actual vegetables (carrots, celery, onions)",
+    "45c8b1f1-d8d0-4628-86d0-010064922894": "User requested fix - Wagyu Beef Tenderloin was using Argentinian chimichurri image (shared with other recipes). Fixed to Power Protein Plate showing premium beef tenderloin with herbs and quality ingredients",
+    "83d78d2e-b5d6-4550-b5a5-c7bd4a7cbf84": "User requested - Beef and Broccoli Stir-fry description updated to specify serving with cauliflower rice instead of regular rice for diabetes-friendly low-GI meal planning",
+    "af98c409-5fe1-433d-820d-3fb391da7ecc": "User reported - Black Bean and Millet Bowl showing Caribbean sorrel cocktail drink with cinnamon stick instead of grain bowl with millet, black beans, sweet potato. Fixed to African savanna grain bowl",
+    "82c5f0ee-8ad9-4398-8fce-7a6fd1e04d85": "User requested - Biohacking Optimization Meal image must show BOTH the base ingredients (salmon, spinach, arugula, kale, avocado, blueberries, chia seeds) AND the supplement powders (lions mane, ashwagandha, rhodiola, etc). Fixed to scientific biohacking meal setup",
+    "00000000-0000-0000-0000-biohacking01": "User requested - Biohacking Optimization Meal image must show BOTH the base ingredients (salmon, spinach, arugula, kale, avocado, blueberries, chia seeds) AND the supplement powders (lions mane, ashwagandha, rhodiola, etc). Fixed to scientific biohacking meal setup",
+    "d5196387-10e5-48ee-baab-002bd89e8a11": "UPDATED USER IMAGE - Perfect biohacking optimization setup showing precision scale, supplement capsules in measured containers, superfoods (green powder, turmeric, cacao nibs, seeds), fresh salmon, and scientific measurement approach. User provided updated version.",
+    "kale_black_bean_medley_custom": "CUSTOM GENERATED IMAGE - Perfect layered presentation showing exact ingredients: baked kale base + guacamole layer + black beans + pumpkin seeds + lime garnish. Generated specifically for accurate ingredient representation."
+  },
+  "removed_duplicates": [
+    {
+      "id": "fbe1ebc0-d475-44ea-abf1-f1b624d99d64",
+      "name": "Aurora Borealis Inspired Dinner",
+      "reason": "Exact duplicate of Aurora Borealis Dinner - removed to clean up database",
+      "removedAt": "2025-09-21T02:35:08.432Z"
+    }
+  ]
+}

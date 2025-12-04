@@ -1,0 +1,2 @@
+rootProject.name = "GlycoGuideApp"
+include ':app'
