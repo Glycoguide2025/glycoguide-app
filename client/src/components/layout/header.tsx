@@ -2,7 +2,7 @@ import { useAuth } from "@/hooks/useAuth";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger, DropdownMenuSeparator } from "@/components/ui/dropdown-menu";
-import { Heart, Menu, BookOpen, Activity, Target, Info, Utensils } from "lucide-react";
+import { Heart, Menu, BookOpen, Activity, Target, Info, Utensils, Crown } from "lucide-react";
 import { useLocation } from "wouter";
 import { queryClient } from "@/lib/queryClient";
 import { useToast } from "@/hooks/use-toast";
@@ -92,6 +92,11 @@ export default function Header() {
                 <DropdownMenuItem onClick={() => setLocation('/about')} className="cursor-pointer" data-testid="menu-about">
                   <Info className="w-4 h-4 mr-2" />
                   About GlycoGuide
+                </DropdownMenuItem>
+                <DropdownMenuSeparator />
+                <DropdownMenuItem onClick={() => setLocation('/membership')} className="cursor-pointer" data-testid="menu-membership">
+                  <Crown className="w-4 h-4 mr-2" />
+                  Membership
                 </DropdownMenuItem>
               </DropdownMenuContent>
             </DropdownMenu>
