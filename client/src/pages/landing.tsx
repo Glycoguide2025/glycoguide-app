@@ -13,6 +13,7 @@ import FooterCTA from "@/components/FooterCTA";
 import PricingSection from "@/components/PricingSection";
 import FAQSection from "@/components/FAQSection";
 import ContactStrip from "@/components/ContactStrip";
+import HomepageWelcomeBanner from "@/components/HomepageWelcomeBanner";
 
 export default function LandingPage() {
   const { user, isLoading } = useAuth();
@@ -44,6 +45,7 @@ export default function LandingPage() {
 
   return (
     <main>
+      <HomepageWelcomeBanner />
       <HeroSection />
       <WellnessPreviewSection />
       <ProgressPreviewSection />
