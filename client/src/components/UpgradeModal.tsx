@@ -1,11 +1,12 @@
 import { useEffect, useRef } from "react";
 import { useUpgradeModal } from "@/hooks/useUpgradeModal";
-
-type Need = "pro" | "premium";
+import { Crown, ExternalLink, LogIn } from "lucide-react";
+import { useLocation } from "wouter";
 
 export default function UpgradeModal() {
   const { isOpen, need, close } = useUpgradeModal();
   const dialogRef = useRef<HTMLDivElement>(null);
+  const [, setLocation] = useLocation();
 
   useEffect(() => {
     if (!isOpen) return;
@@ -16,51 +17,26 @@ export default function UpgradeModal() {
 
   if (!isOpen || !need) return null;
 
-  async function startCheckout() {
-    try {
-      const res = await fetch("/api/billing/checkout", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        credentials: "include",
-        body: JSON.stringify({ tier: need })
-      });
-      
-      if (!res.ok) {
-        console.error("Checkout failed:", res.status);
-        alert("Checkout failed. Please try again.");
-        return;
-      }
-      
-      const j = await res.json();
-      if (j?.url) {
-        window.location.href = j.url; // Stripe Checkout redirect
-      } else {
-        alert("Missing checkout URL");
-      }
-    } catch (error) {
-      console.error("Checkout error:", error);
-      alert("Checkout failed. Please try again.");
-    }
-  }
+  const handleLearnMore = () => {
+    window.open('https://glycoguide.app', '_blank');
+    close();
+  };
 
-  const title = need === "premium" ? "Unlock Premium" : "Upgrade to Pro";
-  const bullets =
-    need === "premium"
-      ? ["30-day insights", "CSV & PDF exports", "Advanced analytics", "Priority support"]
-      : ["90-day insights", "CSV export", "CGM import"];
+  const handleSignIn = () => {
+    setLocation('/auth');
+    close();
+  };
 
   return (
     <div
       className="fixed inset-0 z-50 flex items-center justify-center"
-      aria-labelledby="upgrade-title"
+      aria-labelledby="premium-title"
       aria-modal="true"
       role="dialog"
-      data-testid="modal-upgrade"
+      data-testid="modal-premium"
     >
-      {/* backdrop */}
       <div className="absolute inset-0 bg-black/40" onClick={close} />
 
-      {/* modal */}
       <div
         ref={dialogRef}
         className="relative w-[92%] max-w-md rounded-2xl bg-white dark:bg-gray-800 p-5 shadow-xl"
@@ -74,37 +50,53 @@ export default function UpgradeModal() {
           ×
         </button>
 
-        <h2 id="upgrade-title" className="text-xl font-semibold mb-2 text-gray-900 dark:text-white" data-testid="text-modal-title">
-          {title}
+        <div className="flex justify-center mb-4">
+          <div className="w-16 h-16 rounded-full bg-gradient-to-br from-emerald-400 to-emerald-600 flex items-center justify-center shadow-lg">
+            <Crown className="w-8 h-8 text-white" />
+          </div>
+        </div>
+
+        <h2 id="premium-title" className="text-xl font-semibold mb-3 text-gray-900 dark:text-white text-center" data-testid="text-modal-title">
+          Premium Feature
         </h2>
-        <p className="text-sm text-gray-600 dark:text-gray-300 mb-3" data-testid="text-modal-description">
-          Wellness features to help you spot patterns with less effort.
-        </p>
+        
+        <div className="text-sm text-gray-600 dark:text-gray-300 mb-4 text-center space-y-2">
+          <p data-testid="text-modal-message-1">
+            This feature is available to GlycoGuide Premium members.
+          </p>
+          <p data-testid="text-modal-message-2">
+            If you already have a Premium account, please sign in.
+          </p>
+          <p className="text-xs text-gray-500 dark:text-gray-400" data-testid="text-modal-message-3">
+            To learn more about GlycoGuide, visit our website.
+          </p>
+        </div>
 
-        <ul className="mb-4 list-disc pl-5 text-sm text-gray-800 dark:text-gray-200 space-y-1" data-testid="list-features">
-          {bullets.map((b) => <li key={b}>{b}</li>)}
-        </ul>
-
-        <div className="flex gap-2">
+        <div className="flex flex-col gap-2">
           <button
-            onClick={startCheckout}
-            className="flex-1 rounded-lg border border-blue-600 bg-blue-600 px-4 py-2 font-medium text-white hover:bg-blue-700"
-            data-testid="button-checkout"
+            onClick={handleLearnMore}
+            className="flex items-center justify-center gap-2 w-full rounded-lg bg-emerald-600 px-4 py-2.5 font-medium text-white hover:bg-emerald-700 transition-colors"
+            data-testid="button-learn-more"
           >
-            Continue to Checkout
+            <ExternalLink className="w-4 h-4" />
+            Learn More
+          </button>
+          <button
+            onClick={handleSignIn}
+            className="flex items-center justify-center gap-2 w-full rounded-lg border border-gray-300 dark:border-gray-600 px-4 py-2.5 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
+            data-testid="button-sign-in"
+          >
+            <LogIn className="w-4 h-4" />
+            Sign In
           </button>
           <button
             onClick={close}
-            className="rounded-lg border border-gray-300 dark:border-gray-600 px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700"
-            data-testid="button-not-now"
+            className="w-full rounded-lg px-4 py-2 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+            data-testid="button-cancel"
           >
-            Not now
+            Cancel
           </button>
         </div>
-
-        <p className="mt-3 text-xs text-gray-500 dark:text-gray-400" data-testid="text-disclaimer">
-          You can cancel anytime. GlycoGuide is a wellness companion and does not provide medical advice.
-        </p>
       </div>
     </div>
   );
