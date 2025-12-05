@@ -1,5 +1,5 @@
-import { Lock, Crown, ArrowRight } from "lucide-react";
-import { Link } from "wouter";
+import { Crown, ExternalLink, LogIn, ArrowLeft } from "lucide-react";
+import { Link, useLocation } from "wouter";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
@@ -10,8 +10,14 @@ interface PremiumFeaturePromptProps {
 
 export function PremiumFeaturePrompt({ 
   featureName = "this feature",
-  description = "This is a premium feature available to our subscribers."
+  description = "This is a premium feature available to our members."
 }: PremiumFeaturePromptProps) {
+  const [, setLocation] = useLocation();
+
+  const handleLearnMore = () => {
+    window.open('https://glycoguide.app', '_blank');
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-emerald-50 via-white to-rose-50 dark:from-gray-900 dark:via-gray-950 dark:to-gray-900 flex items-center justify-center p-4">
       <Card className="max-w-md w-full shadow-xl border-2">
@@ -23,37 +29,53 @@ export function PremiumFeaturePrompt({
           </div>
           
           <div className="space-y-3">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
+            <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100" data-testid="text-premium-title">
               Premium Feature
             </h2>
-            <p className="text-gray-600 dark:text-gray-400">
-              {description}
-            </p>
-            <div className="flex items-center justify-center gap-2 text-sm text-gray-500 dark:text-gray-500">
-              <Lock className="w-4 h-4" />
-              <span>Please upgrade to access {featureName}</span>
+            <div className="text-gray-600 dark:text-gray-400 space-y-2">
+              <p data-testid="text-premium-message-1">
+                This feature is available to GlycoGuide Premium members.
+              </p>
+              <p data-testid="text-premium-message-2">
+                If you already have a Premium account, please sign in.
+              </p>
+              <p className="text-sm text-gray-500 dark:text-gray-500" data-testid="text-premium-message-3">
+                To learn more about GlycoGuide, visit our website.
+              </p>
             </div>
           </div>
 
           <div className="space-y-3 pt-4">
-            <Link href="/subscribe" data-testid="link-upgrade">
+            <Button 
+              onClick={handleLearnMore}
+              className="w-full bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 text-white shadow-lg"
+              size="lg"
+              data-testid="button-learn-more"
+            >
+              <ExternalLink className="mr-2 h-4 w-4" />
+              Learn More
+            </Button>
+            
+            <Link href="/auth" data-testid="link-sign-in">
               <Button 
-                className="w-full bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 text-white shadow-lg"
+                variant="outline" 
+                className="w-full"
                 size="lg"
-                data-testid="button-upgrade-now"
+                data-testid="button-sign-in"
               >
-                Upgrade Now
-                <ArrowRight className="ml-2 h-4 w-4" />
+                <LogIn className="mr-2 h-4 w-4" />
+                Sign In
               </Button>
             </Link>
             
             <Link href="/" data-testid="link-home">
               <Button 
                 variant="ghost" 
-                className="w-full"
-                data-testid="button-back-home"
+                className="w-full text-gray-500"
+                data-testid="button-cancel"
               >
-                Back to Home
+                <ArrowLeft className="mr-2 h-4 w-4" />
+                Cancel
               </Button>
             </Link>
           </div>
