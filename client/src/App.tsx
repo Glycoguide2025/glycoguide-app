@@ -68,6 +68,7 @@ import AboutPage from "@/pages/about";
 import EducationPage from "@/pages/education";
 import PrediabetesRiskPage from "@/pages/prediabetes-risk";
 import RegionSelectionPage from "@/pages/region-selection";
+import MembershipPage from "@/pages/membership";
 
 // Stage 8 RC Hardening: Lazy load heavy components
 const Insights = lazy(() => import("@/pages/insights"));
@@ -424,6 +425,7 @@ function AppRoutes() {
             <Route path="/dashboard" component={Home} />
             <Route path="/movement" component={LazyMovement} />
             <Route path="/about" component={AboutPage} />
+            <Route path="/membership" component={MembershipPage} />
             <Route path="/prediabetes-risk" component={PrediabetesRiskPage} />
             <Route path="/press" component={LazyPress} />
             <Route path="/privacy" component={LazyPrivacyPolicy} />
@@ -495,6 +497,7 @@ function AppRoutes() {
           <Route path="/region-selection" component={RegionSelectionPage} />
           <Route path="/science" component={LazySciencePage} />
           <Route path="/about" component={AboutPage} />
+          <Route path="/membership" component={MembershipPage} />
           <Route path="/prediabetes-risk" component={PrediabetesRiskPage} />
           <Route path="/insight-history" component={LazyInsightHistory} />
           <Route path="/billing-test" component={LazyBillingTest} />
