@@ -18,17 +18,21 @@ workflows:
           #!/bin/bash
           set -e
           
-          # Create a temporary keychain for signing
-          KEYCHAIN_PATH="$HOME/Library/Keychains/codemagic.keychain-db"
+          KEYCHAIN_PATH="$HOME/Library/Keychains/build.keychain-db"
           KEYCHAIN_PASSWORD="codemagic"
           
-          # Create keychain
-          security create-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH" || true
+          # Remove existing keychain if present
+          security delete-keychain "$KEYCHAIN_PATH" 2>/dev/null || true
+          
+          # Create new keychain
+          security create-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
           security set-keychain-settings -lut 21600 "$KEYCHAIN_PATH"
           security unlock-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
           
-          # Decode and import certificate
-          echo "$IOS_DISTRIBUTION_CERTIFICATE" | base64 --decode > /tmp/certificate.p12
+          # Decode certificate - handle potential whitespace in base64
+          echo "$IOS_DISTRIBUTION_CERTIFICATE" | tr -d '\n\r ' | base64 --decode > /tmp/certificate.p12
+          
+          # Import certificate
           security import /tmp/certificate.p12 \
             -P "$IOS_CERTIFICATE_PASSWORD" \
             -A \
@@ -36,46 +40,32 @@ workflows:
             -f pkcs12 \
             -k "$KEYCHAIN_PATH"
           
-          # Allow codesign to access keychain
+          # Allow codesign access
           security set-key-partition-list -S apple-tool:,apple:,codesign: -s -k "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
           
-          # Add keychain to search list
+          # Add to keychain search list
           security list-keychains -d user -s "$KEYCHAIN_PATH" $(security list-keychains -d user | tr -d '"')
           security default-keychain -s "$KEYCHAIN_PATH"
           
-          echo "✓ Certificate installed successfully"
+          echo "Certificate installed successfully"
 
       - name: Install provisioning profile
         script: |
           #!/bin/bash
           set -e
           
-          # Create profiles directory
           PROFILES_DIR="$HOME/Library/MobileDevice/Provisioning Profiles"
           mkdir -p "$PROFILES_DIR"
           
-          # Decode and install provisioning profile
-          echo "$IOS_PROVISIONING_PROFILE" | base64 --decode > "$PROFILES_DIR/GlycoGuide_AppStore.mobileprovision"
+          # Decode profile - handle potential whitespace in base64
+          echo "$IOS_PROVISIONING_PROFILE" | tr -d '\n\r ' | base64 --decode > "$PROFILES_DIR/GlycoGuide_AppStore.mobileprovision"
           
-          # Get profile UUID for reference
+          # Get and display profile UUID
           PROFILE_UUID=$(/usr/libexec/PlistBuddy -c "Print UUID" /dev/stdin <<< $(/usr/bin/security cms -D -i "$PROFILES_DIR/GlycoGuide_AppStore.mobileprovision"))
-          echo "✓ Provisioning profile installed: $PROFILE_UUID"
+          echo "Provisioning profile installed: $PROFILE_UUID"
           
-          # Copy with UUID name (required by Xcode)
+          # Copy with UUID name
           cp "$PROFILES_DIR/GlycoGuide_AppStore.mobileprovision" "$PROFILES_DIR/$PROFILE_UUID.mobileprovision"
-
-      - name: Configure Xcode project for manual signing
-        script: |
-          #!/bin/bash
-          set -e
-          
-          cd ios_app
-          
-          # Update project.pbxproj for manual signing
-          # This sets CODE_SIGN_STYLE to Manual and configures the team
-          /usr/libexec/PlistBuddy -c "Set :objects:YOUR_TARGET_ID:buildSettings:CODE_SIGN_STYLE Manual" GlycoGuide.xcodeproj/project.pbxproj 2>/dev/null || true
-          
-          echo "✓ Xcode project configured for manual signing"
 
       - name: Build iOS App
         script: |
